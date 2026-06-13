@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-13T16:23:41.038566+00:00",
-  "status": "ok",
-  "message": "Paper radar data generated successfully.",
+  "generated_at": null,
+  "status": "pending_refresh",
+  "message": "???????? GitHub Actions ???????????? AND ????????? SCI/JCR ???????",
   "source": "Google Scholar",
   "access_method": "SerpApi Google Scholar API",
   "window_years": 3,
@@ -26,6 +26,24 @@
     }
   ],
   "query_groups": [
+    {
+      "label": "ISAC",
+      "concepts": [
+        "ISAC"
+      ]
+    },
+    {
+      "label": "UAV",
+      "concepts": [
+        "UAV"
+      ]
+    },
+    {
+      "label": "MA",
+      "concepts": [
+        "MA"
+      ]
+    },
     {
       "label": "UAV AND ISAC",
       "concepts": [
@@ -65,155 +83,5 @@
   ],
   "include_preprints": true,
   "journal_filter": "Curated venues include SCI/JCR Q1/Q2/Q3 journals, CAS 1/2/3-zone journals, and arXiv preprints in scripts/paper_config.json",
-  "papers": [
-    {
-      "title": "Advancements in UAV-based integrated sensing and communication: A comprehensive survey",
-      "authors": [
-        "M Ahmed",
-        "AA Nasir",
-        "M Masood",
-        "KA Memon"
-      ],
-      "journal": "arXiv",
-      "quartile": "Preprint",
-      "sci_quartile": "Preprint",
-      "cas_zone": null,
-      "cas_note": null,
-      "rank_note": "Preprint",
-      "venue_type": "preprint",
-      "published": "2025-01-01",
-      "year": "2025",
-      "url": "https://arxiv.org/abs/2501.06526",
-      "google_scholar_id": "4N3-uZngThkJ",
-      "cited_by": 26,
-      "doi": "",
-      "keywords": [
-        "UAV AND ISAC"
-      ],
-      "concepts": [
-        "ISAC",
-        "UAV"
-      ]
-    },
-    {
-      "title": "Predictive position control for movable antenna arrays in UAV communications: A spatio-temporal transformer-LSTM framework",
-      "authors": [
-        "K Yu",
-        "K Li",
-        "X Liu",
-        "Q Zhang",
-        "Z Feng"
-      ],
-      "journal": "arXiv",
-      "quartile": "Preprint",
-      "sci_quartile": "Preprint",
-      "cas_zone": null,
-      "cas_note": null,
-      "rank_note": "Preprint",
-      "venue_type": "preprint",
-      "published": "2025-01-01",
-      "year": "2025",
-      "url": "https://arxiv.org/abs/2508.10720",
-      "google_scholar_id": "F_z_zH_GW6YJ",
-      "cited_by": 6,
-      "doi": "",
-      "keywords": [
-        "MA AND UAV"
-      ],
-      "concepts": [
-        "MA",
-        "UAV"
-      ]
-    },
-    {
-      "title": "Fixed and movable antenna technology for 6G integrated sensing and communication",
-      "authors": [
-        "Y Zeng",
-        "Z Dong",
-        "H Wang",
-        "L Zhu",
-        "Z Hong"
-      ],
-      "journal": "arXiv",
-      "quartile": "Preprint",
-      "sci_quartile": "Preprint",
-      "cas_zone": null,
-      "cas_note": null,
-      "rank_note": "Preprint",
-      "venue_type": "preprint",
-      "published": "2024-01-01",
-      "year": "2024",
-      "url": "https://arxiv.org/abs/2407.04404",
-      "google_scholar_id": "livi7_ZNjSAJ",
-      "cited_by": 21,
-      "doi": "",
-      "keywords": [
-        "MA AND ISAC"
-      ],
-      "concepts": [
-        "ISAC",
-        "MA"
-      ]
-    },
-    {
-      "title": "Joint antenna position and beamforming optimization with self-interference mitigation in MA-ISAC system",
-      "authors": [
-        "S Peng",
-        "C Zhang",
-        "Y Xu",
-        "Q Wu",
-        "L Zhu",
-        "X Ou"
-      ],
-      "journal": "arXiv",
-      "quartile": "Preprint",
-      "sci_quartile": "Preprint",
-      "cas_zone": null,
-      "cas_note": null,
-      "rank_note": "Preprint",
-      "venue_type": "preprint",
-      "published": "2024-01-01",
-      "year": "2024",
-      "url": "https://arxiv.org/abs/2408.00413",
-      "google_scholar_id": "1PLstUczeAgJ",
-      "cited_by": 15,
-      "doi": "",
-      "keywords": [
-        "MA AND ISAC"
-      ],
-      "concepts": [
-        "ISAC",
-        "MA"
-      ]
-    },
-    {
-      "title": "UAV-mounted movable antenna: Joint optimization of UAV placement and antenna configuration",
-      "authors": [
-        "XW Tang",
-        "Y Shi",
-        "Y Huang",
-        "Q Wu"
-      ],
-      "journal": "arXiv",
-      "quartile": "Preprint",
-      "sci_quartile": "Preprint",
-      "cas_zone": null,
-      "cas_note": null,
-      "rank_note": "Preprint",
-      "venue_type": "preprint",
-      "published": "2024-01-01",
-      "year": "2024",
-      "url": "https://arxiv.org/abs/2409.02469",
-      "google_scholar_id": "JKtrWEtmfCIJ",
-      "cited_by": 19,
-      "doi": "",
-      "keywords": [
-        "MA AND UAV"
-      ],
-      "concepts": [
-        "MA",
-        "UAV"
-      ]
-    }
-  ]
+  "papers": []
 }

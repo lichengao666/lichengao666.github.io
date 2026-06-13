@@ -27,7 +27,7 @@
 
 ## 论文雷达
 
-主页包含一个“论文雷达”模块，会读取 `data/papers.json` 并展示 Google Scholar 近 3 年同时满足成对关键词关系的论文。论文资源库来源为 Google Scholar，当前来源包含 SCI/JCR Q1-Q3 或中科院 1-3 区期刊、IEEE Journal on Selected Areas in Communications（SCI/JCR Q1 Top，中科院1区Top）、IEEE Wireless Communications Letters 和 arXiv。
+主页包含一个“论文雷达”模块，会读取 `data/papers.json` 并展示 Google Scholar 近 3 年相关论文。检索方式同时支持单关键词和 `AND` 组合关键词。论文资源库来源为 Google Scholar，当前来源包含 SCI/JCR Q1-Q3 或中科院 1-3 区期刊、IEEE Journal on Selected Areas in Communications（SCI/JCR Q1 Top，中科院1区Top）、IEEE Wireless Communications Letters 和 arXiv。
 
 关键词含义：
 
@@ -37,7 +37,11 @@
 
 每个关键词都同时使用缩写和英文全称进行检索。为减少误匹配，`MA` 缩写命中时会同时要求出现天线或无线通信相关语境。
 
-检索关系为“且”的关系，而不是“或”的关系：
+当前检索组包含单关键词和“且”关系组合：
+
+- `ISAC`
+- `UAV`
+- `MA`
 
 - `UAV AND ISAC`
 - `MA AND ISAC`
@@ -47,7 +51,7 @@
 
 - `.github/workflows/update-papers.yml`：每天北京时间约 04:00 自动运行，也可以在 GitHub Actions 手动运行。
 - `scripts/fetch_papers.py`：从 Google Scholar 宽范围获取论文数据，再按期刊/预印本来源白名单过滤；自动任务通过 SerpApi Google Scholar API 作为访问方式。
-- `scripts/paper_config.json`：配置概念关键词、成对检索关系、期刊/预印本来源白名单、期刊别名、SCI/JCR Q1-Q3 和中科院 1-3 区标注。
+- `scripts/paper_config.json`：配置概念关键词、单关键词/AND 检索组、期刊/预印本来源白名单、期刊别名、SCI/JCR Q1-Q3 和中科院 1-3 区标注。
 
 由于 SCI/JCR 和中科院分区完整数据通常不是开放 API，本项目采用本地白名单控制“三区及以上”条件：SCI/JCR 使用 `Q1`、`Q2`、`Q3`，中科院使用 `1区`、`2区`、`3区`。没有人工核验的中科院分区会显示为 `中科院待核验`。`arXiv` 不属于 SCI 或中科院分区，作为预印本来源单独纳入。后续如果要增加或删除来源，修改 `scripts/paper_config.json` 即可。
 
