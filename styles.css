@@ -25,6 +25,7 @@ body {
   color: var(--ink);
   font-family: "Segoe UI", "Microsoft YaHei", Arial, sans-serif;
   line-height: 1.7;
+  top: 0 !important;
 }
 
 a {
@@ -70,6 +71,12 @@ a {
   color: var(--accent-dark);
 }
 
+.nav-right {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+}
+
 .nav-links {
   display: flex;
   align-items: center;
@@ -80,6 +87,61 @@ a {
 
 .nav-links a:hover,
 .nav-links a:focus {
+  color: var(--accent-dark);
+}
+
+.language-box {
+  min-height: 40px;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 0 10px 0 14px;
+  border: 1px solid rgba(15, 118, 110, 0.22);
+  border-radius: 999px;
+  background: var(--white);
+  white-space: nowrap;
+}
+
+.language-label {
+  color: var(--accent-dark);
+  font-size: 0.88rem;
+  font-weight: 800;
+}
+
+#google_translate_element {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+
+.goog-te-gadget {
+  color: transparent !important;
+  font-family: inherit !important;
+  font-size: 0 !important;
+}
+
+.goog-te-gadget span {
+  display: none;
+}
+
+.language-select {
+  min-height: 30px;
+  max-width: 142px;
+  border: 0;
+  outline: 0;
+  background: transparent;
+  color: var(--muted);
+  cursor: pointer;
+  font: inherit;
+  font-size: 0.9rem;
+  font-weight: 800;
+}
+
+.language-select:hover,
+.language-select:focus {
   color: var(--accent-dark);
 }
 
@@ -132,6 +194,14 @@ h1 {
   margin-bottom: 8px;
   font-size: 2.2rem;
   line-height: 1.2;
+}
+
+.roman-name {
+  display: block;
+  margin-top: 4px;
+  color: var(--muted);
+  font-size: 1rem;
+  font-weight: 800;
 }
 
 .role {
@@ -260,7 +330,8 @@ h1 {
   gap: 10px;
 }
 
-.tag-grid span {
+.tag-grid > span {
+  display: inline-flex;
   padding: 8px 13px;
   border: 1px solid rgba(15, 118, 110, 0.2);
   border-radius: 999px;
@@ -293,12 +364,25 @@ h1 {
   font-size: 0.92rem;
 }
 
+.goog-te-banner-frame,
+.VIpgJd-ZVi9od-ORHb,
+.VIpgJd-ZVi9od-ORHb-OEVmcd {
+  display: none !important;
+}
+
 @media (max-width: 860px) {
   .nav {
     align-items: flex-start;
     flex-direction: column;
     justify-content: center;
     padding: 14px 0;
+  }
+
+  .nav-right {
+    width: 100%;
+    align-items: flex-start;
+    flex-direction: column-reverse;
+    gap: 12px;
   }
 
   .nav-links {

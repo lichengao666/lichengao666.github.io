@@ -3,43 +3,84 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="description" content="硕士研究生个人主页，展示教育经历、研究方向、项目经历与联系方式。" />
-  <title>李成奥的个人主页</title>
+  <meta
+    name="description"
+    content="李成奥的个人主页，展示教育经历、研究方向、项目经历与联系方式，并支持自动翻译。"
+  />
+  <title>李成奥 | 个人主页</title>
   <link rel="stylesheet" href="styles.css" />
+  <script src="main.js" defer></script>
+  <script>
+    window.googleTranslateElementInit = function () {
+      new window.google.translate.TranslateElement(
+        {
+          pageLanguage: "zh-CN",
+          includedLanguages: "zh-CN,zh-TW,en,ja,ko,fr,de,es,ru,ar,pt,it",
+          autoDisplay: false
+        },
+        "google_translate_element"
+      );
+    };
+  </script>
+  <script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit" defer></script>
 </head>
 <body>
   <a class="skip-link" href="#main">跳转到主要内容</a>
 
   <header class="site-header">
     <nav class="nav" aria-label="主导航">
-      <a class="brand" href="#top">你的姓名</a>
-      <div class="nav-links">
-        <a href="#about">关于我</a>
-        <a href="#experience">个人经历</a>
-        <a href="#research">研究方向</a>
-        <a href="#contact">联系方式</a>
+      <a class="brand notranslate" href="#top">李成奥</a>
+      <div class="nav-right">
+        <div class="nav-links">
+          <a href="#about">关于我</a>
+          <a href="#experience">个人经历</a>
+          <a href="#research">研究方向</a>
+          <a href="#projects">项目成果</a>
+          <a href="#contact">联系方式</a>
+        </div>
+        <div class="language-box notranslate" aria-label="语言切换" translate="no">
+          <label class="language-label" for="language-select">Language</label>
+          <select class="language-select" id="language-select" aria-label="选择页面语言">
+            <option value="zh-CN" selected>中文简体</option>
+            <option value="zh-TW">繁體中文</option>
+            <option value="en">English</option>
+            <option value="ja">日本語</option>
+            <option value="ko">한국어</option>
+            <option value="fr">Français</option>
+            <option value="de">Deutsch</option>
+            <option value="es">Español</option>
+            <option value="ru">Русский</option>
+            <option value="ar">العربية</option>
+            <option value="pt">Português</option>
+            <option value="it">Italiano</option>
+          </select>
+          <div id="google_translate_element" class="google-translate-widget" aria-hidden="true"></div>
+        </div>
       </div>
     </nav>
   </header>
 
   <main id="main" class="page-shell">
     <aside class="profile-panel" id="top" aria-label="个人信息">
-      <img class="avatar" src="assets/avatar.svg" alt="你的姓名头像" />
+      <img class="avatar" src="assets/avatar.svg" alt="李成奥头像" />
       <p class="eyebrow">Master Student</p>
-      <h1>李成奥</h1>
-      <p class="role">在读硕士研究生 · 四川师范大学 / 计算机科学学院</p>
+      <h1>
+        <span class="notranslate">李成奥</span>
+        <span class="roman-name notranslate">Chengao Li</span>
+      </h1>
+      <p class="role">硕士研究生 · 四川师范大学 / 计算机科学学院</p>
       <p class="summary">
         关注人工智能、数据分析与工程实践，致力于把研究问题转化为可靠、清晰、可复现的解决方案。
       </p>
 
       <div class="contact-list" id="contact">
-        <a href="mailto:lichengao476@gmail.com">lichengao476@gmail.com</a>
-        <a href="tel:+8615583206939">+86 155 8320 6939</a>
+        <a class="notranslate" href="mailto:lichengao476@gmail.com">lichengao476@gmail.com</a>
+        <a class="notranslate" href="tel:+8615583206939">+86 155 8320 6939</a>
         <span>中国 · 成都</span>
       </div>
 
       <div class="profile-actions">
-        <a class="button primary" href="mailto:your.email@example.com">联系我</a>
+        <a class="button primary" href="mailto:lichengao476@gmail.com">联系我</a>
         <a class="button secondary" href="#experience">查看经历</a>
       </div>
     </aside>
@@ -70,7 +111,7 @@
             <div>
               <h3>硕士研究生 | 四川师范大学</h3>
               <p>
-                系统学习专业课程，参与导师课题组科研工作，围绕你的研究方向开展文献调研、算法实现、
+                系统学习专业课程，参与导师课题组科研工作，围绕研究方向开展文献调研、算法实现、
                 实验验证与论文撰写。
               </p>
             </div>
@@ -111,7 +152,7 @@
         </div>
       </section>
 
-      <section class="section">
+      <section class="section" id="projects">
         <div class="section-heading">
           <span>04</span>
           <h2>项目与成果</h2>
@@ -131,7 +172,7 @@
   </main>
 
   <footer class="footer">
-    <p>© 2026 李成奥. Powered by GitHub Pages.</p>
+    <p>© 2026 李成奥. 由 GitHub Pages 托管。</p>
   </footer>
 </body>
 </html>
