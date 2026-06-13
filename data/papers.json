@@ -1,21 +1,27 @@
 {
-  "generated_at": "2026-06-13T16:03:07.619407+00:00",
-  "status": "ok",
-  "message": "Paper radar data generated successfully.",
+  "generated_at": null,
+  "status": "pending_refresh",
+  "message": "论文雷达将在下次 GitHub Actions 运行后使用缩写和英文全称共同检索，并展示 SCI/JCR 与中科院分区。",
   "source": "Google Scholar",
   "access_method": "SerpApi Google Scholar API",
   "window_years": 3,
   "keywords": [
     {
       "label": "ISAC",
+      "abbreviation": "ISAC",
+      "full_name": "Integrated Sensing and Communication",
       "meaning": "Integrated Sensing and Communication"
     },
     {
       "label": "UAV",
+      "abbreviation": "UAV",
+      "full_name": "Unmanned Aerial Vehicle",
       "meaning": "Unmanned Aerial Vehicle"
     },
     {
       "label": "MA",
+      "abbreviation": "MA",
+      "full_name": "Movable Antenna",
       "meaning": "Movable Antenna"
     }
   ],
@@ -43,81 +49,10 @@
     }
   ],
   "quartile_system": "SCI/JCR",
-  "allowed_quartiles": [
-    "Q1",
-    "Q2",
-    "Q3"
-  ],
-  "journal_filter": "Transactions journals curated as SCI/JCR Q1/Q2/Q3 in scripts/paper_config.json",
-  "papers": [
-    {
-      "title": "Building Resilient ISAC in Maritime IoT: Dynamic Attack Detection and Energy-Efficient Scheduling Under DoS Jamming",
-      "authors": [
-        "Y Li",
-        "S Li",
-        "X Guan"
-      ],
-      "journal": "IEEE Transactions on Industrial Informatics",
-      "quartile": "Q1",
-      "published": "2026-01-01",
-      "year": "2026",
-      "url": "https://ieeexplore.ieee.org/abstract/document/11432951/",
-      "google_scholar_id": "jlPCEN7ulhsJ",
-      "cited_by": null,
-      "doi": "",
-      "keywords": [
-        "UAV AND ISAC"
-      ],
-      "concepts": [
-        "ISAC",
-        "UAV"
-      ]
-    },
-    {
-      "title": "Pinching-Antenna System (PASS)-Enabled UAV Delivery",
-      "authors": [
-        "S Lv",
-        "M Li",
-        "Q Li",
-        "Y Liu"
-      ],
-      "journal": "IEEE Transactions on Communications",
-      "quartile": "Q1",
-      "published": "2026-01-01",
-      "year": "2026",
-      "url": "https://ieeexplore.ieee.org/abstract/document/11475785/",
-      "google_scholar_id": "vcsplMvuZL8J",
-      "cited_by": 1,
-      "doi": "",
-      "keywords": [
-        "MA AND UAV"
-      ],
-      "concepts": [
-        "MA",
-        "UAV"
-      ]
-    },
-    {
-      "title": "UAV data acquisition and processing assisted by UGV-enabled mobile edge computing",
-      "authors": [
-        "J Tang",
-        "Y Zeng"
-      ],
-      "journal": "IEEE Transactions on Industrial Informatics",
-      "quartile": "Q1",
-      "published": "2025-01-01",
-      "year": "2025",
-      "url": "https://ieeexplore.ieee.org/abstract/document/10878364/",
-      "google_scholar_id": "0pCOIKPD_YYJ",
-      "cited_by": 23,
-      "doi": "",
-      "keywords": [
-        "UAV AND ISAC"
-      ],
-      "concepts": [
-        "ISAC",
-        "UAV"
-      ]
-    }
-  ]
+  "quartile_systems": ["SCI/JCR", "CAS"],
+  "allowed_quartiles": ["Q1", "Q2", "Q3"],
+  "allowed_cas_zones": ["1区", "2区", "3区"],
+  "include_preprints": true,
+  "journal_filter": "Curated venues include SCI/JCR Q1/Q2/Q3 journals, CAS 1/2/3-zone journals, and arXiv preprints in scripts/paper_config.json",
+  "papers": []
 }

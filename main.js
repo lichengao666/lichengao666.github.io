@@ -107,7 +107,7 @@ function createPaperCard(paper) {
     paper.authors?.join(", "),
     paper.journal,
     paper.published ? formatDate(paper.published) : "",
-    paper.quartile
+    formatRankLabels(paper)
   ].filter(Boolean).join(" · ");
 
   const tags = document.createElement("div");
@@ -129,6 +129,27 @@ function createPaperCard(paper) {
   return card;
 }
 
+function formatRankLabels(paper) {
+  if (paper.venue_type === "preprint") {
+    return "Preprint";
+  }
+
+  const labels = [];
+  const sciRank = paper.rank_note || paper.sci_quartile || paper.quartile;
+
+  if (sciRank) {
+    labels.push(`SCI/JCR ${sciRank}`);
+  }
+
+  if (paper.cas_note) {
+    labels.push(paper.cas_note);
+  } else if (paper.cas_zone) {
+    labels.push(`中科院${paper.cas_zone}`);
+  }
+
+  return labels.join(" · ");
+}
+
 function renderPaperData(data) {
   const papers = data.papers || [];
   const generatedDate = data.generated_at ? formatDate(data.generated_at) : "尚未生成";
@@ -140,9 +161,9 @@ function renderPaperData(data) {
     const empty = document.createElement("article");
     empty.className = "paper-empty";
     const title = data.generated_at ? "暂无匹配论文" : "等待自动任务生成数据";
-    const message = data.generated_at
-      ? "自动任务已运行，但暂未匹配到近 3 年内同时满足成对关键词关系的 SCI/JCR Q1-Q3 白名单 Transactions 论文。"
-      : "请先在 GitHub Actions Secrets 中配置 SERPAPI_KEY，然后手动运行 Update paper radar 工作流。";
+    const message = data.message || (data.generated_at
+      ? "自动任务已运行，但暂未匹配到近 3 年内同时满足成对关键词关系的白名单期刊或 arXiv 论文。"
+      : "请先在 GitHub Actions Secrets 中配置 SERPAPI_KEY，然后手动运行 Update paper radar 工作流。");
     empty.innerHTML = `<h3>${title}</h3><p>${message}</p>`;
     paperList.append(empty);
     return;

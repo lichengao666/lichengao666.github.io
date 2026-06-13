@@ -2,12 +2,17 @@
   "source": "google_scholar",
   "access_method": "serpapi_google_scholar_api",
   "quartile_system": "SCI/JCR",
+  "quartile_systems": ["SCI/JCR", "CAS"],
   "allowed_quartiles": ["Q1", "Q2", "Q3"],
+  "allowed_cas_zones": ["1区", "2区", "3区"],
+  "include_preprints": true,
   "window_years": 3,
-  "max_results_per_query": 20,
+  "max_results_per_query": 50,
   "concepts": [
     {
       "label": "ISAC",
+      "abbreviation": "ISAC",
+      "full_name": "Integrated Sensing and Communication",
       "meaning": "Integrated Sensing and Communication",
       "terms": [
         "ISAC",
@@ -18,6 +23,8 @@
     },
     {
       "label": "UAV",
+      "abbreviation": "UAV",
+      "full_name": "Unmanned Aerial Vehicle",
       "meaning": "Unmanned Aerial Vehicle",
       "terms": [
         "UAV",
@@ -28,8 +35,13 @@
     },
     {
       "label": "MA",
+      "abbreviation": "MA",
+      "full_name": "Movable Antenna",
       "meaning": "Movable Antenna",
+      "context_terms": ["antenna", "antennas", "array", "arrays", "wireless", "communication", "communications"],
       "terms": [
+        "MA",
+        "MAs",
         "movable antenna",
         "movable antennas",
         "movable antenna array",
@@ -55,67 +67,102 @@
   "journals": [
     {
       "name": "IEEE Transactions on Wireless Communications",
-      "quartile": "Q1"
+      "quartile": "Q1",
+      "aliases": ["IEEE Trans. Wireless Commun.", "IEEE TWC"]
     },
     {
       "name": "IEEE Transactions on Communications",
-      "quartile": "Q1"
+      "quartile": "Q1",
+      "aliases": ["IEEE Trans. Commun.", "IEEE TCOM"]
     },
     {
       "name": "IEEE Transactions on Signal Processing",
-      "quartile": "Q1"
+      "quartile": "Q1",
+      "aliases": ["IEEE Trans. Signal Process.", "IEEE TSP"]
     },
     {
       "name": "IEEE Transactions on Vehicular Technology",
-      "quartile": "Q1"
+      "quartile": "Q1",
+      "aliases": ["IEEE Trans. Veh. Technol.", "IEEE TVT"]
     },
     {
       "name": "IEEE Transactions on Mobile Computing",
-      "quartile": "Q1"
+      "quartile": "Q1",
+      "aliases": ["IEEE Trans. Mobile Comput.", "IEEE TMC"]
     },
     {
       "name": "IEEE Transactions on Intelligent Transportation Systems",
-      "quartile": "Q1"
+      "quartile": "Q1",
+      "aliases": ["IEEE Trans. Intell. Transp. Syst.", "IEEE T-ITS"]
     },
     {
       "name": "IEEE Transactions on Aerospace and Electronic Systems",
-      "quartile": "Q2"
+      "quartile": "Q2",
+      "aliases": ["IEEE Trans. Aerosp. Electron. Syst.", "IEEE TAES"]
     },
     {
       "name": "IEEE Transactions on Green Communications and Networking",
-      "quartile": "Q1"
+      "quartile": "Q1",
+      "aliases": ["IEEE Trans. Green Commun. Netw.", "IEEE TGCN"]
     },
     {
       "name": "IEEE Transactions on Cognitive Communications and Networking",
-      "quartile": "Q1"
+      "quartile": "Q1",
+      "aliases": ["IEEE Trans. Cogn. Commun. Netw.", "IEEE TCCN"]
     },
     {
       "name": "IEEE Transactions on Network Science and Engineering",
-      "quartile": "Q1"
+      "quartile": "Q1",
+      "aliases": ["IEEE Trans. Netw. Sci. Eng.", "IEEE TNSE"]
     },
     {
       "name": "IEEE Transactions on Industrial Informatics",
-      "quartile": "Q1"
+      "quartile": "Q1",
+      "aliases": ["IEEE Trans. Ind. Informat.", "IEEE TII"]
     },
     {
       "name": "IEEE Transactions on Neural Networks and Learning Systems",
-      "quartile": "Q1"
+      "quartile": "Q1",
+      "aliases": ["IEEE Trans. Neural Netw. Learn. Syst.", "IEEE TNNLS"]
     },
     {
       "name": "IEEE Transactions on Geoscience and Remote Sensing",
-      "quartile": "Q1"
+      "quartile": "Q1",
+      "aliases": ["IEEE Trans. Geosci. Remote Sens.", "IEEE TGRS"]
     },
     {
       "name": "IEEE Transactions on Antennas and Propagation",
-      "quartile": "Q2"
+      "quartile": "Q2",
+      "aliases": ["IEEE Trans. Antennas Propag.", "IEEE TAP"]
+    },
+    {
+      "name": "IEEE Journal on Selected Areas in Communications",
+      "quartile": "Q1",
+      "rank_note": "Q1 Top",
+      "cas_zone": "1区",
+      "cas_note": "中科院1区Top",
+      "aliases": ["IEEE J. Sel. Areas Commun.", "IEEE JSAC", "JSAC"]
+    },
+    {
+      "name": "IEEE Wireless Communications Letters",
+      "quartile": "Q2",
+      "aliases": ["IEEE Wireless Commun. Lett.", "IEEE WCL"]
     },
     {
       "name": "ACM Transactions on Sensor Networks",
-      "quartile": "Q2"
+      "quartile": "Q2",
+      "aliases": ["ACM Trans. Sens. Netw.", "ACM TOSN"]
     },
     {
       "name": "ACM Transactions on Internet Technology",
-      "quartile": "Q2"
+      "quartile": "Q2",
+      "aliases": ["ACM Trans. Internet Technol.", "ACM TOIT"]
+    },
+    {
+      "name": "arXiv",
+      "quartile": "Preprint",
+      "venue_type": "preprint",
+      "aliases": ["arXiv", "arXiv preprint"]
     }
   ]
 }
