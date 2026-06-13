@@ -1,0 +1,12 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">头像占位图</title>
+  <desc id="desc">一个用于个人主页的简洁学术风头像占位图</desc>
+  <rect width="512" height="512" rx="256" fill="#EEF6F3"/>
+  <circle cx="256" cy="188" r="86" fill="#0F766E"/>
+  <path d="M118 438C132 352 185 306 256 306C327 306 380 352 394 438H118Z" fill="#115E59"/>
+  <path d="M154 126C183 78 226 54 283 58C335 62 379 96 398 145C356 118 315 111 274 124C229 138 189 139 154 126Z" fill="#B45309"/>
+  <path d="M176 403C190 360 218 338 256 338C294 338 322 360 336 403" stroke="#FBFAF7" stroke-width="18" stroke-linecap="round"/>
+  <circle cx="223" cy="188" r="10" fill="#FBFAF7"/>
+  <circle cx="289" cy="188" r="10" fill="#FBFAF7"/>
+  <path d="M225 230C245 246 267 246 287 230" stroke="#FBFAF7" stroke-width="12" stroke-linecap="round"/>
+</svg>
