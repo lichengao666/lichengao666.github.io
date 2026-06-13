@@ -108,10 +108,13 @@ a {
   font-weight: 800;
 }
 
-#google_translate_element {
+#google_translate_element,
+.google-translate-widget {
   position: absolute;
   width: 1px;
   height: 1px;
+  max-width: 1px;
+  max-height: 1px;
   overflow: hidden;
   clip-path: inset(50%);
   white-space: nowrap;
