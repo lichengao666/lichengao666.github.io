@@ -1,5 +1,5 @@
 {
-  "generated_at": null,
+  "generated_at": "2026-06-13T15:21:20.512010+00:00",
   "source": "Google Scholar via SerpApi",
   "window_years": 3,
   "keywords": [
@@ -16,5 +16,6 @@
       "meaning": "Movable Antenna"
     }
   ],
+  "journal_filter": "Transactions journals curated as Q1/Q2 in scripts/paper_config.json",
   "papers": []
 }
