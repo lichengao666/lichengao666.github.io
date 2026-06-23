@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T22:03:53.751433+00:00",
+  "generated_at": "2026-06-23T21:44:15.126961+00:00",
   "status": "ok",
   "message": "Paper radar data generated successfully.",
   "source": "Google Scholar",
@@ -194,7 +194,7 @@
       "year": "2024",
       "url": "https://arxiv.org/abs/2405.11936",
       "google_scholar_id": "5pXt1pDMLw4J",
-      "cited_by": 77,
+      "cited_by": 78,
       "doi": "",
       "keywords": [
         "UAV"
