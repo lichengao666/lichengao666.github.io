@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T20:50:51.801489+00:00",
+  "generated_at": "2026-07-13T20:57:42.826334+00:00",
   "status": "ok",
   "message": "Paper radar data generated successfully.",
   "source": "Google Scholar",
@@ -83,5 +83,125 @@
   ],
   "include_preprints": true,
   "journal_filter": "Curated venues include SCI/JCR Q1/Q2/Q3 journals, CAS 1/2/3-zone journals, and arXiv preprints in scripts/paper_config.json",
-  "papers": []
+  "papers": [
+    {
+      "title": "MIMO OFDM-Enabled ISAC for Low-Altitude Non-Cooperative UAV Surveillance: A Survey",
+      "authors": [
+        "S Bai",
+        "S Li",
+        "C Yin",
+        "W Qu",
+        "LT Hsu",
+        "Y Liu"
+      ],
+      "journal": "arXiv",
+      "quartile": "Preprint",
+      "sci_quartile": "Preprint",
+      "cas_zone": null,
+      "cas_note": null,
+      "rank_note": "Preprint",
+      "venue_type": "preprint",
+      "published": "2026-01-01",
+      "year": "2026",
+      "url": "https://arxiv.org/abs/2604.02680",
+      "google_scholar_id": "3iY1wszjHE8J",
+      "cited_by": 1,
+      "doi": "",
+      "keywords": [
+        "UAV AND ISAC"
+      ],
+      "concepts": [
+        "ISAC",
+        "UAV"
+      ]
+    },
+    {
+      "title": "Reliable UAV Detection with ISAC",
+      "authors": [
+        "S Saur",
+        "M Doll",
+        "A Grudnitsky",
+        "S Mandelli"
+      ],
+      "journal": "arXiv",
+      "quartile": "Preprint",
+      "sci_quartile": "Preprint",
+      "cas_zone": null,
+      "cas_note": null,
+      "rank_note": "Preprint",
+      "venue_type": "preprint",
+      "published": "2026-01-01",
+      "year": "2026",
+      "url": "https://arxiv.org/abs/2605.23561",
+      "google_scholar_id": "j6Dq6anEDY8J",
+      "cited_by": 1,
+      "doi": "",
+      "keywords": [
+        "UAV AND ISAC"
+      ],
+      "concepts": [
+        "ISAC",
+        "UAV"
+      ]
+    },
+    {
+      "title": "Nonlinear Model Predictive Control for Leaderless UAV Formation Flying with Collision Avoidance under Directed Graphs",
+      "authors": [
+        "Y Wang",
+        "Y Fang",
+        "J Mei",
+        "Y Gong",
+        "G Ma"
+      ],
+      "journal": "arXiv",
+      "quartile": "Preprint",
+      "sci_quartile": "Preprint",
+      "cas_zone": null,
+      "cas_note": null,
+      "rank_note": "Preprint",
+      "venue_type": "preprint",
+      "published": "2025-01-01",
+      "year": "2025",
+      "url": "https://arxiv.org/abs/2505.06895",
+      "google_scholar_id": "ttvS8y5gPHMJ",
+      "cited_by": 4,
+      "doi": "",
+      "keywords": [
+        "MA AND UAV"
+      ],
+      "concepts": [
+        "MA",
+        "UAV"
+      ]
+    },
+    {
+      "title": "UAV-mounted movable antenna: Joint optimization of UAV placement and antenna configuration",
+      "authors": [
+        "XW Tang",
+        "Y Shi",
+        "Y Huang",
+        "Q Wu"
+      ],
+      "journal": "arXiv",
+      "quartile": "Preprint",
+      "sci_quartile": "Preprint",
+      "cas_zone": null,
+      "cas_note": null,
+      "rank_note": "Preprint",
+      "venue_type": "preprint",
+      "published": "2024-01-01",
+      "year": "2024",
+      "url": "https://arxiv.org/abs/2409.02469",
+      "google_scholar_id": "JKtrWEtmfCIJ",
+      "cited_by": 20,
+      "doi": "",
+      "keywords": [
+        "MA AND UAV"
+      ],
+      "concepts": [
+        "MA",
+        "UAV"
+      ]
+    }
+  ]
 }
