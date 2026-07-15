@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T21:01:51.102230+00:00",
+  "generated_at": "2026-07-15T21:01:46.320734+00:00",
   "status": "ok",
   "message": "Paper radar data generated successfully.",
   "source": "Google Scholar",
@@ -85,12 +85,11 @@
   "journal_filter": "Curated venues include SCI/JCR Q1/Q2/Q3 journals, CAS 1/2/3-zone journals, and arXiv preprints in scripts/paper_config.json",
   "papers": [
     {
-      "title": "Reliable UAV Detection with ISAC",
+      "title": "Sensing safety analysis for vehicular networks with integrated sensing and communication (ISAC)",
       "authors": [
-        "S Saur",
-        "M Doll",
-        "A Grudnitsky",
-        "S Mandelli"
+        "T Shui",
+        "W Saad",
+        "M Chen"
       ],
       "journal": "arXiv",
       "quartile": "Preprint",
@@ -99,11 +98,39 @@
       "cas_note": null,
       "rank_note": "Preprint",
       "venue_type": "preprint",
-      "published": "2026-01-01",
-      "year": "2026",
-      "url": "https://arxiv.org/abs/2605.23561",
-      "google_scholar_id": "j6Dq6anEDY8J",
-      "cited_by": 1,
+      "published": "2025-01-01",
+      "year": "2025",
+      "url": "https://arxiv.org/abs/2505.01688",
+      "google_scholar_id": "u2I6oTXNnTwJ",
+      "cited_by": 4,
+      "doi": "",
+      "keywords": [
+        "ISAC"
+      ],
+      "concepts": [
+        "ISAC"
+      ]
+    },
+    {
+      "title": "Advancements in UAV-based integrated sensing and communication: A comprehensive survey",
+      "authors": [
+        "M Ahmed",
+        "AA Nasir",
+        "M Masood",
+        "KA Memon"
+      ],
+      "journal": "arXiv",
+      "quartile": "Preprint",
+      "sci_quartile": "Preprint",
+      "cas_zone": null,
+      "cas_note": null,
+      "rank_note": "Preprint",
+      "venue_type": "preprint",
+      "published": "2025-01-01",
+      "year": "2025",
+      "url": "https://arxiv.org/abs/2501.06526",
+      "google_scholar_id": "4N3-uZngThkJ",
+      "cited_by": 28,
       "doi": "",
       "keywords": [
         "UAV AND ISAC"
@@ -114,14 +141,13 @@
       ]
     },
     {
-      "title": "Uav-visloc: A large-scale dataset for uav visual localization",
+      "title": "Movable antenna aided full-duplex isac system with self-interference mitigation",
       "authors": [
-        "W Xu",
-        "Y Yao",
-        "J Cao",
-        "Z Wei",
-        "C Liu",
-        "J Wang"
+        "S Peng",
+        "Y Xu",
+        "G Yi",
+        "C Zhang",
+        "D He"
       ],
       "journal": "arXiv",
       "quartile": "Preprint",
@@ -130,40 +156,11 @@
       "cas_note": null,
       "rank_note": "Preprint",
       "venue_type": "preprint",
-      "published": "2024-01-01",
-      "year": "2024",
-      "url": "https://arxiv.org/abs/2405.11936",
-      "google_scholar_id": "5pXt1pDMLw4J",
-      "cited_by": 82,
-      "doi": "",
-      "keywords": [
-        "UAV"
-      ],
-      "concepts": [
-        "UAV"
-      ]
-    },
-    {
-      "title": "Fixed and movable antenna technology for 6G integrated sensing and communication",
-      "authors": [
-        "Y Zeng",
-        "Z Dong",
-        "H Wang",
-        "L Zhu",
-        "Z Hong"
-      ],
-      "journal": "arXiv",
-      "quartile": "Preprint",
-      "sci_quartile": "Preprint",
-      "cas_zone": null,
-      "cas_note": null,
-      "rank_note": "Preprint",
-      "venue_type": "preprint",
-      "published": "2024-01-01",
-      "year": "2024",
-      "url": "https://arxiv.org/abs/2407.04404",
-      "google_scholar_id": "livi7_ZNjSAJ",
-      "cited_by": 23,
+      "published": "2025-01-01",
+      "year": "2025",
+      "url": "https://arxiv.org/abs/2505.14830",
+      "google_scholar_id": "LZN9BLbRoJIJ",
+      "cited_by": 2,
       "doi": "",
       "keywords": [
         "MA AND ISAC"
@@ -171,6 +168,64 @@
       "concepts": [
         "ISAC",
         "MA"
+      ]
+    },
+    {
+      "title": "B-ISAC: Backscatter integrated sensing and communication for IoE applications",
+      "authors": [
+        "Z Zhao",
+        "Y Dong",
+        "T Wei",
+        "X Tang",
+        "XP Zhang"
+      ],
+      "journal": "arXiv",
+      "quartile": "Preprint",
+      "sci_quartile": "Preprint",
+      "cas_zone": null,
+      "cas_note": null,
+      "rank_note": "Preprint",
+      "venue_type": "preprint",
+      "published": "2024-01-01",
+      "year": "2024",
+      "url": "https://arxiv.org/abs/2407.19235",
+      "google_scholar_id": "bS-kW-A0_yEJ",
+      "cited_by": 18,
+      "doi": "",
+      "keywords": [
+        "ISAC"
+      ],
+      "concepts": [
+        "ISAC"
+      ]
+    },
+    {
+      "title": "UAV-mounted movable antenna: Joint optimization of UAV placement and antenna configuration",
+      "authors": [
+        "XW Tang",
+        "Y Shi",
+        "Y Huang",
+        "Q Wu"
+      ],
+      "journal": "arXiv",
+      "quartile": "Preprint",
+      "sci_quartile": "Preprint",
+      "cas_zone": null,
+      "cas_note": null,
+      "rank_note": "Preprint",
+      "venue_type": "preprint",
+      "published": "2024-01-01",
+      "year": "2024",
+      "url": "https://arxiv.org/abs/2409.02469",
+      "google_scholar_id": "JKtrWEtmfCIJ",
+      "cited_by": 20,
+      "doi": "",
+      "keywords": [
+        "MA AND UAV"
+      ],
+      "concepts": [
+        "MA",
+        "UAV"
       ]
     }
   ]
