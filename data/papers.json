@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T20:58:08.218426+00:00",
+  "generated_at": "2026-07-18T20:52:18.419168+00:00",
   "status": "ok",
   "message": "Paper radar data generated successfully.",
   "source": "Google Scholar",
@@ -103,7 +103,7 @@
       "year": "2025",
       "url": "https://arxiv.org/abs/2501.06526",
       "google_scholar_id": "4N3-uZngThkJ",
-      "cited_by": 30,
+      "cited_by": 31,
       "doi": "",
       "keywords": [
         "UAV AND ISAC"
@@ -164,7 +164,7 @@
       "year": "2024",
       "url": "https://arxiv.org/abs/2405.11936",
       "google_scholar_id": "5pXt1pDMLw4J",
-      "cited_by": 82,
+      "cited_by": 83,
       "doi": "",
       "keywords": [
         "UAV"
@@ -194,37 +194,6 @@
       "url": "https://arxiv.org/abs/2407.04404",
       "google_scholar_id": "livi7_ZNjSAJ",
       "cited_by": 24,
-      "doi": "",
-      "keywords": [
-        "MA AND ISAC"
-      ],
-      "concepts": [
-        "ISAC",
-        "MA"
-      ]
-    },
-    {
-      "title": "Joint antenna position and beamforming optimization with self-interference mitigation in MA-ISAC system",
-      "authors": [
-        "S Peng",
-        "C Zhang",
-        "Y Xu",
-        "Q Wu",
-        "L Zhu",
-        "X Ou"
-      ],
-      "journal": "arXiv",
-      "quartile": "Preprint",
-      "sci_quartile": "Preprint",
-      "cas_zone": null,
-      "cas_note": null,
-      "rank_note": "Preprint",
-      "venue_type": "preprint",
-      "published": "2024-01-01",
-      "year": "2024",
-      "url": "https://arxiv.org/abs/2408.00413",
-      "google_scholar_id": "1PLstUczeAgJ",
-      "cited_by": 15,
       "doi": "",
       "keywords": [
         "MA AND ISAC"
