@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T21:13:17.226791+00:00",
+  "generated_at": "2026-07-21T21:11:22.551315+00:00",
   "status": "ok",
   "message": "Paper radar data generated successfully.",
   "source": "Google Scholar",
@@ -85,12 +85,13 @@
   "journal_filter": "Curated venues include SCI/JCR Q1/Q2/Q3 journals, CAS 1/2/3-zone journals, and arXiv preprints in scripts/paper_config.json",
   "papers": [
     {
-      "title": "Reliable UAV Detection with ISAC",
+      "title": "Integrated Sensing and Communication with UAV Swarms via Decentralized Consensus ADMM",
       "authors": [
-        "S Saur",
-        "M Doll",
-        "A Grudnitsky",
-        "S Mandelli"
+        "Z Zhai",
+        "W Ni",
+        "X Wang",
+        "D Niyato",
+        "E Hossain"
       ],
       "journal": "arXiv",
       "quartile": "Preprint",
@@ -99,11 +100,11 @@
       "cas_note": null,
       "rank_note": "Preprint",
       "venue_type": "preprint",
-      "published": "2026-01-01",
-      "year": "2026",
-      "url": "https://arxiv.org/abs/2605.23561",
-      "google_scholar_id": "j6Dq6anEDY8J",
-      "cited_by": 1,
+      "published": "2025-01-01",
+      "year": "2025",
+      "url": "https://arxiv.org/abs/2511.03283",
+      "google_scholar_id": "dfg4pG3FGHwJ",
+      "cited_by": 3,
       "doi": "",
       "keywords": [
         "UAV AND ISAC"
