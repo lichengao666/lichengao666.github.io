@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T21:11:22.551315+00:00",
+  "generated_at": "2026-07-22T21:15:24.729587+00:00",
   "status": "ok",
   "message": "Paper radar data generated successfully.",
   "source": "Google Scholar",
@@ -85,13 +85,14 @@
   "journal_filter": "Curated venues include SCI/JCR Q1/Q2/Q3 journals, CAS 1/2/3-zone journals, and arXiv preprints in scripts/paper_config.json",
   "papers": [
     {
-      "title": "Integrated Sensing and Communication with UAV Swarms via Decentralized Consensus ADMM",
+      "title": "Robust Secure Beamforming for Movable Antenna Enhanced Integrated Sensing and Communications",
       "authors": [
-        "Z Zhai",
-        "W Ni",
-        "X Wang",
-        "D Niyato",
-        "E Hossain"
+        "Y Chen",
+        "N Wei",
+        "A Bazzi",
+        "X Dong",
+        "R Yang",
+        "Y Li"
       ],
       "journal": "arXiv",
       "quartile": "Preprint",
@@ -100,18 +101,78 @@
       "cas_note": null,
       "rank_note": "Preprint",
       "venue_type": "preprint",
-      "published": "2025-01-01",
-      "year": "2025",
-      "url": "https://arxiv.org/abs/2511.03283",
-      "google_scholar_id": "dfg4pG3FGHwJ",
-      "cited_by": 3,
+      "published": "2026-01-01",
+      "year": "2026",
+      "url": "https://arxiv.org/abs/2606.07104",
+      "google_scholar_id": "T5d89NveqKsJ",
+      "cited_by": null,
       "doi": "",
       "keywords": [
-        "UAV AND ISAC"
+        "MA AND ISAC"
       ],
       "concepts": [
         "ISAC",
-        "UAV"
+        "MA"
+      ]
+    },
+    {
+      "title": "Optimizing 6G integrated sensing and communications (ISAC) via expert networks",
+      "authors": [
+        "J Wang",
+        "H Du",
+        "G Sun",
+        "J Kang",
+        "H Zhou",
+        "D Niyato"
+      ],
+      "journal": "arXiv",
+      "quartile": "Preprint",
+      "sci_quartile": "Preprint",
+      "cas_zone": null,
+      "cas_note": null,
+      "rank_note": "Preprint",
+      "venue_type": "preprint",
+      "published": "2024-01-01",
+      "year": "2024",
+      "url": "https://arxiv.org/abs/2406.00408",
+      "google_scholar_id": "7UWCXDVKEzYJ",
+      "cited_by": 31,
+      "doi": "",
+      "keywords": [
+        "ISAC"
+      ],
+      "concepts": [
+        "ISAC"
+      ]
+    },
+    {
+      "title": "Fixed and movable antenna technology for 6G integrated sensing and communication",
+      "authors": [
+        "Y Zeng",
+        "Z Dong",
+        "H Wang",
+        "L Zhu",
+        "Z Hong"
+      ],
+      "journal": "arXiv",
+      "quartile": "Preprint",
+      "sci_quartile": "Preprint",
+      "cas_zone": null,
+      "cas_note": null,
+      "rank_note": "Preprint",
+      "venue_type": "preprint",
+      "published": "2024-01-01",
+      "year": "2024",
+      "url": "https://arxiv.org/abs/2407.04404",
+      "google_scholar_id": "livi7_ZNjSAJ",
+      "cited_by": 24,
+      "doi": "",
+      "keywords": [
+        "MA AND ISAC"
+      ],
+      "concepts": [
+        "ISAC",
+        "MA"
       ]
     }
   ]
