@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T21:05:01.311933+00:00",
+  "generated_at": "2026-07-25T20:54:16.706499+00:00",
   "status": "ok",
   "message": "Paper radar data generated successfully.",
   "source": "Google Scholar",
@@ -103,7 +103,7 @@
       "year": "2025",
       "url": "https://arxiv.org/abs/2501.06526",
       "google_scholar_id": "4N3-uZngThkJ",
-      "cited_by": 32,
+      "cited_by": 33,
       "doi": "",
       "keywords": [
         "UAV AND ISAC"
@@ -164,7 +164,7 @@
       "year": "2024",
       "url": "https://arxiv.org/abs/2405.11936",
       "google_scholar_id": "5pXt1pDMLw4J",
-      "cited_by": 85,
+      "cited_by": 86,
       "doi": "",
       "keywords": [
         "UAV"
@@ -193,7 +193,7 @@
       "year": "2024",
       "url": "https://arxiv.org/abs/2407.04404",
       "google_scholar_id": "livi7_ZNjSAJ",
-      "cited_by": 24,
+      "cited_by": 25,
       "doi": "",
       "keywords": [
         "MA AND ISAC"
