@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T21:10:25.536513+00:00",
+  "generated_at": "2026-08-07T00:52:46.965194+00:00",
   "status": "ok",
   "message": "Paper radar data generated successfully.",
   "source": "Google Scholar",
@@ -85,6 +85,64 @@
   "journal_filter": "Curated venues include SCI/JCR Q1/Q2/Q3 journals, CAS 1/2/3-zone journals, and arXiv preprints in scripts/paper_config.json",
   "papers": [
     {
+      "title": "Energy-efficient secure communications via joint optimization of UAV trajectory and movable-antenna array beamforming",
+      "authors": [
+        "S Kim",
+        "J Gong",
+        "J Kang"
+      ],
+      "journal": "IEEE Wireless Communications Letters",
+      "quartile": "Q2",
+      "sci_quartile": "Q2",
+      "cas_zone": "中科院待核验",
+      "cas_note": "中科院待核验",
+      "rank_note": "Q2",
+      "venue_type": "journal",
+      "published": "2026-01-01",
+      "year": "2026",
+      "url": "https://ieeexplore.ieee.org/abstract/document/11321281/",
+      "google_scholar_id": "Lme9rsBz_YoJ",
+      "cited_by": 6,
+      "doi": "",
+      "keywords": [
+        "MA AND UAV"
+      ],
+      "concepts": [
+        "MA",
+        "UAV"
+      ]
+    },
+    {
+      "title": "Predictive position control for movable antenna arrays in UAV communications: A spatio-temporal transformer-LSTM framework",
+      "authors": [
+        "K Yu",
+        "K Li",
+        "X Liu",
+        "Q Zhang",
+        "Z Feng"
+      ],
+      "journal": "arXiv",
+      "quartile": "Preprint",
+      "sci_quartile": "Preprint",
+      "cas_zone": null,
+      "cas_note": null,
+      "rank_note": "Preprint",
+      "venue_type": "preprint",
+      "published": "2025-01-01",
+      "year": "2025",
+      "url": "https://arxiv.org/abs/2508.10720",
+      "google_scholar_id": "F_z_zH_GW6YJ",
+      "cited_by": 6,
+      "doi": "",
+      "keywords": [
+        "MA AND UAV"
+      ],
+      "concepts": [
+        "MA",
+        "UAV"
+      ]
+    },
+    {
       "title": "UAV-VisLoc: A large-scale dataset for UAV visual localization",
       "authors": [
         "W Xu",
@@ -111,6 +169,91 @@
         "UAV"
       ],
       "concepts": [
+        "UAV"
+      ]
+    },
+    {
+      "title": "Historical review of fluid antenna and movable antenna",
+      "authors": [
+        "L Zhu",
+        "KK Wong"
+      ],
+      "journal": "arXiv",
+      "quartile": "Preprint",
+      "sci_quartile": "Preprint",
+      "cas_zone": null,
+      "cas_note": null,
+      "rank_note": "Preprint",
+      "venue_type": "preprint",
+      "published": "2024-01-01",
+      "year": "2024",
+      "url": "https://arxiv.org/abs/2401.02362",
+      "google_scholar_id": "mOKBXQP7EO4J",
+      "cited_by": 195,
+      "doi": "",
+      "keywords": [
+        "MA"
+      ],
+      "concepts": [
+        "MA"
+      ]
+    },
+    {
+      "title": "Fixed and movable antenna technology for 6G integrated sensing and communication",
+      "authors": [
+        "Y Zeng",
+        "Z Dong",
+        "H Wang",
+        "L Zhu",
+        "Z Hong"
+      ],
+      "journal": "arXiv",
+      "quartile": "Preprint",
+      "sci_quartile": "Preprint",
+      "cas_zone": null,
+      "cas_note": null,
+      "rank_note": "Preprint",
+      "venue_type": "preprint",
+      "published": "2024-01-01",
+      "year": "2024",
+      "url": "https://arxiv.org/abs/2407.04404",
+      "google_scholar_id": "livi7_ZNjSAJ",
+      "cited_by": 26,
+      "doi": "",
+      "keywords": [
+        "MA AND ISAC"
+      ],
+      "concepts": [
+        "ISAC",
+        "MA"
+      ]
+    },
+    {
+      "title": "UAV-mounted movable antenna: Joint optimization of UAV placement and antenna configuration",
+      "authors": [
+        "XW Tang",
+        "Y Shi",
+        "Y Huang",
+        "Q Wu"
+      ],
+      "journal": "arXiv",
+      "quartile": "Preprint",
+      "sci_quartile": "Preprint",
+      "cas_zone": null,
+      "cas_note": null,
+      "rank_note": "Preprint",
+      "venue_type": "preprint",
+      "published": "2024-01-01",
+      "year": "2024",
+      "url": "https://arxiv.org/abs/2409.02469",
+      "google_scholar_id": "JKtrWEtmfCIJ",
+      "cited_by": 21,
+      "doi": "",
+      "keywords": [
+        "MA AND UAV"
+      ],
+      "concepts": [
+        "MA",
         "UAV"
       ]
     }
