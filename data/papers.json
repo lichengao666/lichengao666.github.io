@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T20:45:48.054266+00:00",
+  "generated_at": "2026-08-13T20:43:58.215589+00:00",
   "status": "ok",
   "message": "Paper radar data generated successfully.",
   "source": "Google Scholar",
@@ -85,12 +85,13 @@
   "journal_filter": "Curated venues include SCI/JCR Q1/Q2/Q3 journals, CAS 1/2/3-zone journals, and arXiv preprints in scripts/paper_config.json",
   "papers": [
     {
-      "title": "Movable Subarray-Aided ISAC in Hybrid Near-Far Field Channels",
+      "title": "B-ISAC: Backscatter integrated sensing and communication for IoE applications",
       "authors": [
-        "R Liu",
-        "Y Gang",
-        "H Wang",
-        "T Mao"
+        "Z Zhao",
+        "Y Dong",
+        "T Wei",
+        "X Tang",
+        "XP Zhang"
       ],
       "journal": "arXiv",
       "quartile": "Preprint",
@@ -99,29 +100,28 @@
       "cas_note": null,
       "rank_note": "Preprint",
       "venue_type": "preprint",
-      "published": "2026-01-01",
-      "year": "2026",
-      "url": "https://arxiv.org/abs/2608.01854",
-      "google_scholar_id": "H3nLU4TZUfQJ",
-      "cited_by": null,
+      "published": "2024-01-01",
+      "year": "2024",
+      "url": "https://arxiv.org/abs/2407.19235",
+      "google_scholar_id": "bS-kW-A0_yEJ",
+      "cited_by": 19,
       "doi": "",
       "keywords": [
-        "MA AND ISAC"
+        "ISAC"
       ],
       "concepts": [
-        "ISAC",
-        "MA"
+        "ISAC"
       ]
     },
     {
-      "title": "Distributed distortion-aware robust optimization for movable antenna-aided cell-free ISAC systems",
+      "title": "UAV-VisLoc: A large-scale dataset for UAV visual localization",
       "authors": [
-        "Y Xiu",
-        "Y Zhao",
-        "R Yang",
-        "Z Dong",
-        "W Lyu",
-        "Z Zhang"
+        "W Xu",
+        "Y Yao",
+        "J Cao",
+        "Z Wei",
+        "C Liu",
+        "J Wang"
       ],
       "journal": "arXiv",
       "quartile": "Preprint",
@@ -130,77 +130,16 @@
       "cas_note": null,
       "rank_note": "Preprint",
       "venue_type": "preprint",
-      "published": "2025-01-01",
-      "year": "2025",
-      "url": "https://arxiv.org/abs/2508.13839",
-      "google_scholar_id": "lHDuJumw29AJ",
-      "cited_by": 6,
+      "published": "2024-01-01",
+      "year": "2024",
+      "url": "https://arxiv.org/abs/2405.11936",
+      "google_scholar_id": "5pXt1pDMLw4J",
+      "cited_by": 89,
       "doi": "",
       "keywords": [
-        "MA AND ISAC"
+        "UAV"
       ],
       "concepts": [
-        "ISAC",
-        "MA"
-      ]
-    },
-    {
-      "title": "Reconfigurable airspace: Synergizing movable antenna and intelligent surface for low-altitude ISAC networks",
-      "authors": [
-        "H Wang",
-        "Q Wu",
-        "Y Jiang",
-        "Z Zheng",
-        "Z Zhang"
-      ],
-      "journal": "arXiv",
-      "quartile": "Preprint",
-      "sci_quartile": "Preprint",
-      "cas_zone": null,
-      "cas_note": null,
-      "rank_note": "Preprint",
-      "venue_type": "preprint",
-      "published": "2025-01-01",
-      "year": "2025",
-      "url": "https://arxiv.org/abs/2511.10310",
-      "google_scholar_id": "iUQyrzgA9nIJ",
-      "cited_by": 9,
-      "doi": "",
-      "keywords": [
-        "MA AND ISAC"
-      ],
-      "concepts": [
-        "ISAC",
-        "MA"
-      ]
-    },
-    {
-      "title": "Predictive position control for movable antenna arrays in UAV communications: A spatio-temporal transformer-LSTM framework",
-      "authors": [
-        "K Yu",
-        "K Li",
-        "X Liu",
-        "Q Zhang",
-        "Z Feng"
-      ],
-      "journal": "arXiv",
-      "quartile": "Preprint",
-      "sci_quartile": "Preprint",
-      "cas_zone": null,
-      "cas_note": null,
-      "rank_note": "Preprint",
-      "venue_type": "preprint",
-      "published": "2025-01-01",
-      "year": "2025",
-      "url": "https://arxiv.org/abs/2508.10720",
-      "google_scholar_id": "F_z_zH_GW6YJ",
-      "cited_by": 7,
-      "doi": "",
-      "keywords": [
-        "MA AND UAV"
-      ],
-      "concepts": [
-        "MA",
         "UAV"
       ]
     },
