@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T20:28:14.106451+00:00",
+  "generated_at": "2026-08-18T20:25:27.901768+00:00",
   "status": "ok",
   "message": "Paper radar data generated successfully.",
   "source": "Google Scholar",
@@ -85,104 +85,13 @@
   "journal_filter": "Curated venues include SCI/JCR Q1/Q2/Q3 journals, CAS 1/2/3-zone journals, and arXiv preprints in scripts/paper_config.json",
   "papers": [
     {
-      "title": "Movable Subarray-Aided ISAC in Hybrid Near-Far Field Channels",
+      "title": "Multi-functional chirp signalling for next-generation multi-carrier wireless networks: Communications, sensing and ISAC perspectives",
       "authors": [
-        "R Liu",
-        "Y Gang",
-        "H Wang",
-        "T Mao"
-      ],
-      "journal": "arXiv",
-      "quartile": "Preprint",
-      "sci_quartile": "Preprint",
-      "cas_zone": null,
-      "cas_note": null,
-      "rank_note": "Preprint",
-      "venue_type": "preprint",
-      "published": "2026-01-01",
-      "year": "2026",
-      "url": "https://arxiv.org/abs/2608.01854",
-      "google_scholar_id": "H3nLU4TZUfQJ",
-      "cited_by": null,
-      "doi": "",
-      "keywords": [
-        "MA AND ISAC"
-      ],
-      "concepts": [
-        "ISAC",
-        "MA"
-      ]
-    },
-    {
-      "title": "DRL-Based Secure Transmission for Rotatable Antenna-Enabled Low-Altitude ISAC Systems",
-      "authors": [
-        "C Liu",
-        "H Bian",
-        "W Gao",
-        "Q Zhang",
-        "Y Yao",
-        "L Yang"
-      ],
-      "journal": "arXiv",
-      "quartile": "Preprint",
-      "sci_quartile": "Preprint",
-      "cas_zone": null,
-      "cas_note": null,
-      "rank_note": "Preprint",
-      "venue_type": "preprint",
-      "published": "2026-01-01",
-      "year": "2026",
-      "url": "https://arxiv.org/abs/2608.07170",
-      "google_scholar_id": "VRtoIpOahjkJ",
-      "cited_by": null,
-      "doi": "",
-      "keywords": [
-        "MA AND ISAC"
-      ],
-      "concepts": [
-        "ISAC",
-        "MA"
-      ]
-    },
-    {
-      "title": "Artificial Intelligence for Spatially Reconfigurable Antennas: Movable, Fluid, and Pinching Antenna Systems",
-      "authors": [
-        "NC Luong",
         "Z Sui",
-        "TH Vu",
-        "J Cao",
-        "B Ma",
-        "T Van Le"
-      ],
-      "journal": "arXiv",
-      "quartile": "Preprint",
-      "sci_quartile": "Preprint",
-      "cas_zone": null,
-      "cas_note": null,
-      "rank_note": "Preprint",
-      "venue_type": "preprint",
-      "published": "2026-01-01",
-      "year": "2026",
-      "url": "https://arxiv.org/abs/2608.00255",
-      "google_scholar_id": "ID4DU93BvcIJ",
-      "cited_by": null,
-      "doi": "",
-      "keywords": [
-        "MA AND ISAC"
-      ],
-      "concepts": [
-        "ISAC",
-        "MA"
-      ]
-    },
-    {
-      "title": "Predictive position control for movable antenna arrays in UAV communications: A spatio-temporal transformer-LSTM framework",
-      "authors": [
-        "K Yu",
-        "K Li",
-        "X Liu",
-        "Q Zhang",
-        "Z Feng"
+        "Q Luo",
+        "Z Liu",
+        "M Temiz",
+        "L Musavian"
       ],
       "journal": "arXiv",
       "quartile": "Preprint",
@@ -193,27 +102,22 @@
       "venue_type": "preprint",
       "published": "2025-01-01",
       "year": "2025",
-      "url": "https://arxiv.org/abs/2508.10720",
-      "google_scholar_id": "F_z_zH_GW6YJ",
-      "cited_by": 7,
+      "url": "https://arxiv.org/abs/2508.06022",
+      "google_scholar_id": "5q3MykAEeW4J",
+      "cited_by": 32,
       "doi": "",
       "keywords": [
-        "MA AND UAV"
+        "ISAC"
       ],
       "concepts": [
-        "MA",
-        "UAV"
+        "ISAC"
       ]
     },
     {
-      "title": "UAV-VisLoc: A large-scale dataset for UAV visual localization",
+      "title": "Historical review of fluid antenna and movable antenna",
       "authors": [
-        "W Xu",
-        "Y Yao",
-        "J Cao",
-        "Z Wei",
-        "C Liu",
-        "J Wang"
+        "L Zhu",
+        "KK Wong"
       ],
       "journal": "arXiv",
       "quartile": "Preprint",
@@ -224,15 +128,45 @@
       "venue_type": "preprint",
       "published": "2024-01-01",
       "year": "2024",
-      "url": "https://arxiv.org/abs/2405.11936",
-      "google_scholar_id": "5pXt1pDMLw4J",
-      "cited_by": 88,
+      "url": "https://arxiv.org/abs/2401.02362",
+      "google_scholar_id": "mOKBXQP7EO4J",
+      "cited_by": 196,
       "doi": "",
       "keywords": [
-        "UAV"
+        "MA"
       ],
       "concepts": [
-        "UAV"
+        "MA"
+      ]
+    },
+    {
+      "title": "Fixed and movable antenna technology for 6G integrated sensing and communication",
+      "authors": [
+        "Y Zeng",
+        "Z Dong",
+        "H Wang",
+        "L Zhu",
+        "Z Hong"
+      ],
+      "journal": "arXiv",
+      "quartile": "Preprint",
+      "sci_quartile": "Preprint",
+      "cas_zone": null,
+      "cas_note": null,
+      "rank_note": "Preprint",
+      "venue_type": "preprint",
+      "published": "2024-01-01",
+      "year": "2024",
+      "url": "https://arxiv.org/abs/2407.04404",
+      "google_scholar_id": "livi7_ZNjSAJ",
+      "cited_by": 26,
+      "doi": "",
+      "keywords": [
+        "MA AND ISAC"
+      ],
+      "concepts": [
+        "ISAC",
+        "MA"
       ]
     },
     {
