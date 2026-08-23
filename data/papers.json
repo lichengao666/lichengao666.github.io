@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T20:23:28.208065+00:00",
+  "generated_at": "2026-08-23T20:23:57.085154+00:00",
   "status": "ok",
   "message": "Paper radar data generated successfully.",
   "source": "Google Scholar",
@@ -105,7 +105,7 @@
       "year": "2024",
       "url": "https://arxiv.org/abs/2405.11936",
       "google_scholar_id": "5pXt1pDMLw4J",
-      "cited_by": 88,
+      "cited_by": 89,
       "doi": "",
       "keywords": [
         "UAV"
@@ -168,35 +168,6 @@
       "concepts": [
         "ISAC",
         "MA"
-      ]
-    },
-    {
-      "title": "UAV-mounted movable antenna: Joint optimization of UAV placement and antenna configuration",
-      "authors": [
-        "XW Tang",
-        "Y Shi",
-        "Y Huang",
-        "Q Wu"
-      ],
-      "journal": "arXiv",
-      "quartile": "Preprint",
-      "sci_quartile": "Preprint",
-      "cas_zone": null,
-      "cas_note": null,
-      "rank_note": "Preprint",
-      "venue_type": "preprint",
-      "published": "2024-01-01",
-      "year": "2024",
-      "url": "https://arxiv.org/abs/2409.02469",
-      "google_scholar_id": "JKtrWEtmfCIJ",
-      "cited_by": 21,
-      "doi": "",
-      "keywords": [
-        "MA AND UAV"
-      ],
-      "concepts": [
-        "MA",
-        "UAV"
       ]
     }
   ]
