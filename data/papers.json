@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T20:29:49.107393+00:00",
+  "generated_at": "2026-08-26T22:49:10.133831+00:00",
   "status": "ok",
   "message": "Paper radar data generated successfully.",
   "source": "Google Scholar",
@@ -85,12 +85,11 @@
   "journal_filter": "Curated venues include SCI/JCR Q1/Q2/Q3 journals, CAS 1/2/3-zone journals, and arXiv preprints in scripts/paper_config.json",
   "papers": [
     {
-      "title": "Reliable UAV Detection with ISAC",
+      "title": "ISAC-Enabled On-Demand UAV Charging for Wireless Rechargeable Sensor Networks",
       "authors": [
-        "S Saur",
-        "M Doll",
-        "A Grudnitsky",
-        "S Mandelli"
+        "MUF Qaisar",
+        "L Zhang",
+        "P Bellavista"
       ],
       "journal": "arXiv",
       "quartile": "Preprint",
@@ -101,9 +100,9 @@
       "venue_type": "preprint",
       "published": "2026-01-01",
       "year": "2026",
-      "url": "https://arxiv.org/abs/2605.23561",
-      "google_scholar_id": "j6Dq6anEDY8J",
-      "cited_by": 2,
+      "url": "https://arxiv.org/abs/2607.23572",
+      "google_scholar_id": "tenqhEUQtqUJ",
+      "cited_by": null,
       "doi": "",
       "keywords": [
         "UAV AND ISAC"
@@ -143,40 +142,14 @@
       ]
     },
     {
-      "title": "Mutual information based pilot design for ISAC",
+      "title": "DRL-Based Secure Transmission for Rotatable Antenna-Enabled Low-Altitude ISAC Systems",
       "authors": [
-        "A Bazzi",
-        "M Chafii"
-      ],
-      "journal": "IEEE Transactions on Communications",
-      "quartile": "Q1",
-      "sci_quartile": "Q1",
-      "cas_zone": "中科院待核验",
-      "cas_note": "中科院待核验",
-      "rank_note": "Q1",
-      "venue_type": "journal",
-      "published": "2025-01-01",
-      "year": "2025",
-      "url": "https://ieeexplore.ieee.org/abstract/document/10904093/",
-      "google_scholar_id": "UHZtQbV2VZIJ",
-      "cited_by": 58,
-      "doi": "",
-      "keywords": [
-        "ISAC"
-      ],
-      "concepts": [
-        "ISAC"
-      ]
-    },
-    {
-      "title": "Distributed distortion-aware robust optimization for movable antenna-aided cell-free ISAC systems",
-      "authors": [
-        "Y Xiu",
-        "Y Zhao",
-        "R Yang",
-        "Z Dong",
-        "W Lyu",
-        "Z Zhang"
+        "C Liu",
+        "H Bian",
+        "W Gao",
+        "Q Zhang",
+        "Y Yao",
+        "L Yang"
       ],
       "journal": "arXiv",
       "quartile": "Preprint",
@@ -185,11 +158,11 @@
       "cas_note": null,
       "rank_note": "Preprint",
       "venue_type": "preprint",
-      "published": "2025-01-01",
-      "year": "2025",
-      "url": "https://arxiv.org/abs/2508.13839",
-      "google_scholar_id": "lHDuJumw29AJ",
-      "cited_by": 7,
+      "published": "2026-01-01",
+      "year": "2026",
+      "url": "https://arxiv.org/abs/2608.07170",
+      "google_scholar_id": "VRtoIpOahjkJ",
+      "cited_by": null,
       "doi": "",
       "keywords": [
         "MA AND ISAC"
@@ -200,13 +173,13 @@
       ]
     },
     {
-      "title": "Reconfigurable airspace: Synergizing movable antenna and intelligent surface for low-altitude ISAC networks",
+      "title": "Movable antenna aided full-duplex isac system with self-interference mitigation",
       "authors": [
-        "H Wang",
-        "Q Wu",
-        "Y Jiang",
-        "Z Zheng",
-        "Z Zhang"
+        "S Peng",
+        "Y Xu",
+        "G Yi",
+        "C Zhang",
+        "D He"
       ],
       "journal": "arXiv",
       "quartile": "Preprint",
@@ -217,37 +190,8 @@
       "venue_type": "preprint",
       "published": "2025-01-01",
       "year": "2025",
-      "url": "https://arxiv.org/abs/2511.10310",
-      "google_scholar_id": "iUQyrzgA9nIJ",
-      "cited_by": 9,
-      "doi": "",
-      "keywords": [
-        "MA AND ISAC"
-      ],
-      "concepts": [
-        "ISAC",
-        "MA"
-      ]
-    },
-    {
-      "title": "Interference Management for Integrated Sensing and Communications: A Multiple Access Perspective",
-      "authors": [
-        "K Chen",
-        "Y Mao",
-        "W Shin",
-        "B Clerckx"
-      ],
-      "journal": "arXiv",
-      "quartile": "Preprint",
-      "sci_quartile": "Preprint",
-      "cas_zone": null,
-      "cas_note": null,
-      "rank_note": "Preprint",
-      "venue_type": "preprint",
-      "published": "2025-01-01",
-      "year": "2025",
-      "url": "https://arxiv.org/abs/2509.02352",
-      "google_scholar_id": "30xAuh0qxxkJ",
+      "url": "https://arxiv.org/abs/2505.14830",
+      "google_scholar_id": "LZN9BLbRoJIJ",
       "cited_by": 2,
       "doi": "",
       "keywords": [
@@ -259,12 +203,14 @@
       ]
     },
     {
-      "title": "Coordinated RSMA for integrated sensing and communication in emergency UAV systems",
+      "title": "Optimizing 6G integrated sensing and communications (ISAC) via expert networks",
       "authors": [
-        "B Yao",
-        "R Li",
-        "Y Chen",
-        "L Wang"
+        "J Wang",
+        "H Du",
+        "G Sun",
+        "J Kang",
+        "H Zhou",
+        "D Niyato"
       ],
       "journal": "arXiv",
       "quartile": "Preprint",
@@ -275,16 +221,15 @@
       "venue_type": "preprint",
       "published": "2024-01-01",
       "year": "2024",
-      "url": "https://arxiv.org/abs/2406.19205",
-      "google_scholar_id": "jKGUecLaYPIJ",
-      "cited_by": 12,
+      "url": "https://arxiv.org/abs/2406.00408",
+      "google_scholar_id": "7UWCXDVKEzYJ",
+      "cited_by": 31,
       "doi": "",
       "keywords": [
-        "UAV AND ISAC"
+        "ISAC"
       ],
       "concepts": [
-        "ISAC",
-        "UAV"
+        "ISAC"
       ]
     }
   ]
