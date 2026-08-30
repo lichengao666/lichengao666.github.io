@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T22:27:12.868318+00:00",
+  "generated_at": "2026-08-30T22:27:36.919654+00:00",
   "status": "ok",
   "message": "Paper radar data generated successfully.",
   "source": "Google Scholar",
@@ -85,13 +85,14 @@
   "journal_filter": "Curated venues include SCI/JCR Q1/Q2/Q3 journals, CAS 1/2/3-zone journals, and arXiv preprints in scripts/paper_config.json",
   "papers": [
     {
-      "title": "Fixed and movable antenna technology for 6G integrated sensing and communication",
+      "title": "UW-OCDM for Low-Altitude UAV Communication and Cooperative Sensing",
       "authors": [
-        "Y Zeng",
-        "Z Dong",
+        "Y Tao",
+        "Z Gao",
+        "Z Wan",
+        "Y Lv",
         "H Wang",
-        "L Zhu",
-        "Z Hong"
+        "K Huang"
       ],
       "journal": "arXiv",
       "quartile": "Preprint",
@@ -100,11 +101,68 @@
       "cas_note": null,
       "rank_note": "Preprint",
       "venue_type": "preprint",
-      "published": "2024-01-01",
-      "year": "2024",
-      "url": "https://arxiv.org/abs/2407.04404",
-      "google_scholar_id": "livi7_ZNjSAJ",
-      "cited_by": 26,
+      "published": "2026-01-01",
+      "year": "2026",
+      "url": "https://arxiv.org/abs/2608.21050",
+      "google_scholar_id": "nZWA92O3BIgJ",
+      "cited_by": null,
+      "doi": "",
+      "keywords": [
+        "UAV AND ISAC"
+      ],
+      "concepts": [
+        "ISAC",
+        "UAV"
+      ]
+    },
+    {
+      "title": "ISAC-Enabled On-Demand UAV Charging for Wireless Rechargeable Sensor Networks",
+      "authors": [
+        "MUF Qaisar",
+        "L Zhang",
+        "P Bellavista"
+      ],
+      "journal": "arXiv",
+      "quartile": "Preprint",
+      "sci_quartile": "Preprint",
+      "cas_zone": null,
+      "cas_note": null,
+      "rank_note": "Preprint",
+      "venue_type": "preprint",
+      "published": "2026-01-01",
+      "year": "2026",
+      "url": "https://arxiv.org/abs/2607.23572",
+      "google_scholar_id": "tenqhEUQtqUJ",
+      "cited_by": null,
+      "doi": "",
+      "keywords": [
+        "UAV AND ISAC"
+      ],
+      "concepts": [
+        "ISAC",
+        "UAV"
+      ]
+    },
+    {
+      "title": "Movable Subarray-Aided ISAC in Hybrid Near-Far Field Channels",
+      "authors": [
+        "R Liu",
+        "Y Gang",
+        "H Wang",
+        "T Mao"
+      ],
+      "journal": "arXiv",
+      "quartile": "Preprint",
+      "sci_quartile": "Preprint",
+      "cas_zone": null,
+      "cas_note": null,
+      "rank_note": "Preprint",
+      "venue_type": "preprint",
+      "published": "2026-01-01",
+      "year": "2026",
+      "url": "https://arxiv.org/abs/2608.01854",
+      "google_scholar_id": "H3nLU4TZUfQJ",
+      "cited_by": null,
       "doi": "",
       "keywords": [
         "MA AND ISAC"
