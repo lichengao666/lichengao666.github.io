@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T23:39:22.799648+00:00",
+  "generated_at": "2026-09-01T22:26:18.315717+00:00",
   "status": "ok",
   "message": "Paper radar data generated successfully.",
   "source": "Google Scholar",
@@ -85,96 +85,6 @@
   "journal_filter": "Curated venues include SCI/JCR Q1/Q2/Q3 journals, CAS 1/2/3-zone journals, and arXiv preprints in scripts/paper_config.json",
   "papers": [
     {
-      "title": "Movable Subarray-Aided ISAC in Hybrid Near-Far Field Channels",
-      "authors": [
-        "R Liu",
-        "Y Gang",
-        "H Wang",
-        "T Mao"
-      ],
-      "journal": "arXiv",
-      "quartile": "Preprint",
-      "sci_quartile": "Preprint",
-      "cas_zone": null,
-      "cas_note": null,
-      "rank_note": "Preprint",
-      "venue_type": "preprint",
-      "published": "2026-01-01",
-      "year": "2026",
-      "url": "https://arxiv.org/abs/2608.01854",
-      "google_scholar_id": "H3nLU4TZUfQJ",
-      "cited_by": null,
-      "doi": "",
-      "keywords": [
-        "MA AND ISAC"
-      ],
-      "concepts": [
-        "ISAC",
-        "MA"
-      ]
-    },
-    {
-      "title": "UAV-Enabled ISAC with Fluid Antennas for Low-Altitude Wireless Networks",
-      "authors": [
-        "W Liu",
-        "X Zhang",
-        "J Ren",
-        "W Yuan",
-        "C You",
-        "S Li"
-      ],
-      "journal": "arXiv",
-      "quartile": "Preprint",
-      "sci_quartile": "Preprint",
-      "cas_zone": null,
-      "cas_note": null,
-      "rank_note": "Preprint",
-      "venue_type": "preprint",
-      "published": "2025-01-01",
-      "year": "2025",
-      "url": "https://arxiv.org/abs/2509.21105",
-      "google_scholar_id": "GzyAtwePcF0J",
-      "cited_by": 8,
-      "doi": "",
-      "keywords": [
-        "UAV AND ISAC"
-      ],
-      "concepts": [
-        "ISAC",
-        "UAV"
-      ]
-    },
-    {
-      "title": "Movable antenna aided full-duplex isac system with self-interference mitigation",
-      "authors": [
-        "S Peng",
-        "Y Xu",
-        "G Yi",
-        "C Zhang",
-        "D He"
-      ],
-      "journal": "arXiv",
-      "quartile": "Preprint",
-      "sci_quartile": "Preprint",
-      "cas_zone": null,
-      "cas_note": null,
-      "rank_note": "Preprint",
-      "venue_type": "preprint",
-      "published": "2025-01-01",
-      "year": "2025",
-      "url": "https://arxiv.org/abs/2505.14830",
-      "google_scholar_id": "LZN9BLbRoJIJ",
-      "cited_by": 2,
-      "doi": "",
-      "keywords": [
-        "MA AND ISAC"
-      ],
-      "concepts": [
-        "ISAC",
-        "MA"
-      ]
-    },
-    {
       "title": "UAV-VisLoc: A large-scale dataset for UAV visual localization",
       "authors": [
         "W Xu",
@@ -227,6 +137,36 @@
         "MA"
       ],
       "concepts": [
+        "MA"
+      ]
+    },
+    {
+      "title": "Fixed and movable antenna technology for 6G integrated sensing and communication",
+      "authors": [
+        "Y Zeng",
+        "Z Dong",
+        "H Wang",
+        "L Zhu",
+        "Z Hong"
+      ],
+      "journal": "arXiv",
+      "quartile": "Preprint",
+      "sci_quartile": "Preprint",
+      "cas_zone": null,
+      "cas_note": null,
+      "rank_note": "Preprint",
+      "venue_type": "preprint",
+      "published": "2024-01-01",
+      "year": "2024",
+      "url": "https://arxiv.org/abs/2407.04404",
+      "google_scholar_id": "livi7_ZNjSAJ",
+      "cited_by": 26,
+      "doi": "",
+      "keywords": [
+        "MA AND ISAC"
+      ],
+      "concepts": [
+        "ISAC",
         "MA"
       ]
     }
