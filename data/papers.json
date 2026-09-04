@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T22:21:46.281975+00:00",
+  "generated_at": "2026-09-04T22:10:57.491999+00:00",
   "status": "ok",
   "message": "Paper radar data generated successfully.",
   "source": "Google Scholar",
@@ -131,7 +131,7 @@
       "year": "2024",
       "url": "https://arxiv.org/abs/2401.02362",
       "google_scholar_id": "mOKBXQP7EO4J",
-      "cited_by": 197,
+      "cited_by": 198,
       "doi": "",
       "keywords": [
         "MA"
