@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T22:35:02.732544+00:00",
+  "generated_at": "2026-09-08T22:25:03.466637+00:00",
   "status": "ok",
   "message": "Paper radar data generated successfully.",
   "source": "Google Scholar",
@@ -85,96 +85,6 @@
   "journal_filter": "Curated venues include SCI/JCR Q1/Q2/Q3 journals, CAS 1/2/3-zone journals, and arXiv preprints in scripts/paper_config.json",
   "papers": [
     {
-      "title": "Resource Allocation for Secure Dual-UAV-Assisted ISAC System",
-      "authors": [
-        "H Lei",
-        "J Geng",
-        "KH Park",
-        "J Ye",
-        "L Yang",
-        "X Miao"
-      ],
-      "journal": "arXiv",
-      "quartile": "Preprint",
-      "sci_quartile": "Preprint",
-      "cas_zone": null,
-      "cas_note": null,
-      "rank_note": "Preprint",
-      "venue_type": "preprint",
-      "published": "2026-01-01",
-      "year": "2026",
-      "url": "https://arxiv.org/abs/2608.24398",
-      "google_scholar_id": "EOXLnYWHcRoJ",
-      "cited_by": 1,
-      "doi": "",
-      "keywords": [
-        "UAV AND ISAC"
-      ],
-      "concepts": [
-        "ISAC",
-        "UAV"
-      ]
-    },
-    {
-      "title": "UW-OCDM for Low-Altitude UAV Communication and Cooperative Sensing",
-      "authors": [
-        "Y Tao",
-        "Z Gao",
-        "Z Wan",
-        "Y Lv",
-        "H Wang",
-        "K Huang"
-      ],
-      "journal": "arXiv",
-      "quartile": "Preprint",
-      "sci_quartile": "Preprint",
-      "cas_zone": null,
-      "cas_note": null,
-      "rank_note": "Preprint",
-      "venue_type": "preprint",
-      "published": "2026-01-01",
-      "year": "2026",
-      "url": "https://arxiv.org/abs/2608.21050",
-      "google_scholar_id": "nZWA92O3BIgJ",
-      "cited_by": null,
-      "doi": "",
-      "keywords": [
-        "UAV AND ISAC"
-      ],
-      "concepts": [
-        "ISAC",
-        "UAV"
-      ]
-    },
-    {
-      "title": "ISAC-Enabled On-Demand UAV Charging for Wireless Rechargeable Sensor Networks",
-      "authors": [
-        "MUF Qaisar",
-        "L Zhang",
-        "P Bellavista"
-      ],
-      "journal": "arXiv",
-      "quartile": "Preprint",
-      "sci_quartile": "Preprint",
-      "cas_zone": null,
-      "cas_note": null,
-      "rank_note": "Preprint",
-      "venue_type": "preprint",
-      "published": "2026-01-01",
-      "year": "2026",
-      "url": "https://arxiv.org/abs/2607.23572",
-      "google_scholar_id": "tenqhEUQtqUJ",
-      "cited_by": null,
-      "doi": "",
-      "keywords": [
-        "UAV AND ISAC"
-      ],
-      "concepts": [
-        "ISAC",
-        "UAV"
-      ]
-    },
-    {
       "title": "Movable Subarray-Aided ISAC in Hybrid Near-Far Field Channels",
       "authors": [
         "R Liu",
@@ -220,7 +130,7 @@
       "year": "2025",
       "url": "https://ieeexplore.ieee.org/abstract/document/10904093/",
       "google_scholar_id": "UHZtQbV2VZIJ",
-      "cited_by": 61,
+      "cited_by": 60,
       "doi": "",
       "keywords": [
         "ISAC"
@@ -230,13 +140,10 @@
       ]
     },
     {
-      "title": "B-ISAC: Backscatter integrated sensing and communication for IoE applications",
+      "title": "Historical review of fluid antenna and movable antenna",
       "authors": [
-        "Z Zhao",
-        "Y Dong",
-        "T Wei",
-        "X Tang",
-        "XP Zhang"
+        "L Zhu",
+        "KK Wong"
       ],
       "journal": "arXiv",
       "quartile": "Preprint",
@@ -247,15 +154,15 @@
       "venue_type": "preprint",
       "published": "2024-01-01",
       "year": "2024",
-      "url": "https://arxiv.org/abs/2407.19235",
-      "google_scholar_id": "bS-kW-A0_yEJ",
-      "cited_by": 19,
+      "url": "https://arxiv.org/abs/2401.02362",
+      "google_scholar_id": "mOKBXQP7EO4J",
+      "cited_by": 198,
       "doi": "",
       "keywords": [
-        "ISAC"
+        "MA"
       ],
       "concepts": [
-        "ISAC"
+        "MA"
       ]
     }
   ]
