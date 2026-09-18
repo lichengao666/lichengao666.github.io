@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T22:43:32.648192+00:00",
+  "generated_at": "2026-09-18T22:22:08.297548+00:00",
   "status": "ok",
   "message": "Paper radar data generated successfully.",
   "source": "Google Scholar",
@@ -85,14 +85,14 @@
   "journal_filter": "Curated venues include SCI/JCR Q1/Q2/Q3 journals, CAS 1/2/3-zone journals, and arXiv preprints in scripts/paper_config.json",
   "papers": [
     {
-      "title": "Resource Allocation for Secure Dual-UAV-Assisted ISAC System",
+      "title": "Discrete Antenna Positioning and Beamforming Design for RIS-Assisted MA Secure ISAC Systems",
       "authors": [
-        "H Lei",
-        "J Geng",
-        "KH Park",
-        "J Ye",
-        "L Yang",
-        "X Miao"
+        "Z Li",
+        "M Zhu",
+        "Z Su",
+        "L Chen",
+        "K Wei",
+        "W Fang"
       ],
       "journal": "arXiv",
       "quartile": "Preprint",
@@ -103,26 +103,56 @@
       "venue_type": "preprint",
       "published": "2026-01-01",
       "year": "2026",
-      "url": "https://arxiv.org/abs/2608.24398",
-      "google_scholar_id": "EOXLnYWHcRoJ",
-      "cited_by": 1,
+      "url": "https://arxiv.org/abs/2609.14974",
+      "google_scholar_id": "4atqaEyK7-YJ",
+      "cited_by": null,
       "doi": "",
       "keywords": [
-        "UAV AND ISAC"
+        "MA AND ISAC"
       ],
       "concepts": [
         "ISAC",
-        "UAV"
+        "MA"
       ]
     },
     {
-      "title": "Reconfigurable airspace: Synergizing movable antenna and intelligent surface for low-altitude ISAC networks",
+      "title": "Movable Subarray-Aided ISAC in Hybrid Near-Far Field Channels",
       "authors": [
+        "R Liu",
+        "Y Gang",
         "H Wang",
-        "Q Wu",
-        "Y Jiang",
-        "Z Zheng",
-        "Z Zhang"
+        "T Mao"
+      ],
+      "journal": "arXiv",
+      "quartile": "Preprint",
+      "sci_quartile": "Preprint",
+      "cas_zone": null,
+      "cas_note": null,
+      "rank_note": "Preprint",
+      "venue_type": "preprint",
+      "published": "2026-01-01",
+      "year": "2026",
+      "url": "https://arxiv.org/abs/2608.01854",
+      "google_scholar_id": "H3nLU4TZUfQJ",
+      "cited_by": null,
+      "doi": "",
+      "keywords": [
+        "MA AND ISAC"
+      ],
+      "concepts": [
+        "ISAC",
+        "MA"
+      ]
+    },
+    {
+      "title": "UAV-Enabled ISAC with Fluid Antennas for Low-Altitude Wireless Networks",
+      "authors": [
+        "W Liu",
+        "X Zhang",
+        "J Ren",
+        "W Yuan",
+        "C You",
+        "S Li"
       ],
       "journal": "arXiv",
       "quartile": "Preprint",
@@ -133,9 +163,40 @@
       "venue_type": "preprint",
       "published": "2025-01-01",
       "year": "2025",
-      "url": "https://arxiv.org/abs/2511.10310",
-      "google_scholar_id": "iUQyrzgA9nIJ",
-      "cited_by": 10,
+      "url": "https://arxiv.org/abs/2509.21105",
+      "google_scholar_id": "GzyAtwePcF0J",
+      "cited_by": 8,
+      "doi": "",
+      "keywords": [
+        "UAV AND ISAC"
+      ],
+      "concepts": [
+        "ISAC",
+        "UAV"
+      ]
+    },
+    {
+      "title": "Fundamental models and signal processing for movable antenna-enhanced wireless communications and sensing",
+      "authors": [
+        "Z Xiao",
+        "X Pi",
+        "S Cao",
+        "L Zhu",
+        "Z Gao",
+        "XG Xia"
+      ],
+      "journal": "arXiv",
+      "quartile": "Preprint",
+      "sci_quartile": "Preprint",
+      "cas_zone": null,
+      "cas_note": null,
+      "rank_note": "Preprint",
+      "venue_type": "preprint",
+      "published": "2025-01-01",
+      "year": "2025",
+      "url": "https://arxiv.org/abs/2511.05048",
+      "google_scholar_id": "K6ySHxJb13YJ",
+      "cited_by": 3,
       "doi": "",
       "keywords": [
         "MA AND ISAC"
@@ -146,13 +207,13 @@
       ]
     },
     {
-      "title": "Fixed and movable antenna technology for 6G integrated sensing and communication",
+      "title": "B-ISAC: Backscatter integrated sensing and communication for IoE applications",
       "authors": [
-        "Y Zeng",
-        "Z Dong",
-        "H Wang",
-        "L Zhu",
-        "Z Hong"
+        "Z Zhao",
+        "Y Dong",
+        "T Wei",
+        "X Tang",
+        "XP Zhang"
       ],
       "journal": "arXiv",
       "quartile": "Preprint",
@@ -163,16 +224,44 @@
       "venue_type": "preprint",
       "published": "2024-01-01",
       "year": "2024",
-      "url": "https://arxiv.org/abs/2407.04404",
-      "google_scholar_id": "livi7_ZNjSAJ",
-      "cited_by": 26,
+      "url": "https://arxiv.org/abs/2407.19235",
+      "google_scholar_id": "bS-kW-A0_yEJ",
+      "cited_by": 19,
       "doi": "",
       "keywords": [
-        "MA AND ISAC"
+        "ISAC"
       ],
       "concepts": [
-        "ISAC",
-        "MA"
+        "ISAC"
+      ]
+    },
+    {
+      "title": "UAV-mounted movable antenna: Joint optimization of UAV placement and antenna configuration",
+      "authors": [
+        "XW Tang",
+        "Y Shi",
+        "Y Huang",
+        "Q Wu"
+      ],
+      "journal": "arXiv",
+      "quartile": "Preprint",
+      "sci_quartile": "Preprint",
+      "cas_zone": null,
+      "cas_note": null,
+      "rank_note": "Preprint",
+      "venue_type": "preprint",
+      "published": "2024-01-01",
+      "year": "2024",
+      "url": "https://arxiv.org/abs/2409.02469",
+      "google_scholar_id": "JKtrWEtmfCIJ",
+      "cited_by": 22,
+      "doi": "",
+      "keywords": [
+        "MA AND UAV"
+      ],
+      "concepts": [
+        "MA",
+        "UAV"
       ]
     }
   ]
