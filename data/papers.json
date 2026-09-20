@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T22:12:18.364226+00:00",
+  "generated_at": "2026-09-20T22:14:39.511927+00:00",
   "status": "ok",
   "message": "Paper radar data generated successfully.",
   "source": "Google Scholar",
@@ -116,6 +116,35 @@
       ]
     },
     {
+      "title": "Movable-Antenna-Enhanced ISAC: Optimal Antenna Trajectory and Beamforming Design",
+      "authors": [
+        "Y Wu",
+        "D Xu",
+        "DWK Ng",
+        "W Gerstacker"
+      ],
+      "journal": "arXiv",
+      "quartile": "Preprint",
+      "sci_quartile": "Preprint",
+      "cas_zone": null,
+      "cas_note": null,
+      "rank_note": "Preprint",
+      "venue_type": "preprint",
+      "published": "2026-01-01",
+      "year": "2026",
+      "url": "https://arxiv.org/abs/2605.23427",
+      "google_scholar_id": "YbZDgj6iX4QJ",
+      "cited_by": null,
+      "doi": "",
+      "keywords": [
+        "MA AND ISAC"
+      ],
+      "concepts": [
+        "ISAC",
+        "MA"
+      ]
+    },
+    {
       "title": "Movable Subarray-Aided ISAC in Hybrid Near-Far Field Channels",
       "authors": [
         "R Liu",
@@ -145,14 +174,12 @@
       ]
     },
     {
-      "title": "Artificial Intelligence for Spatially Reconfigurable Antennas: Movable, Fluid, and Pinching Antenna Systems",
+      "title": "Optimal Beamforming Design for Multi-user MIMO Near-Field ISAC Systems with Movable Antennas",
       "authors": [
-        "NC Luong",
-        "Z Sui",
-        "TH Vu",
-        "J Cao",
-        "B Ma",
-        "T Van Le"
+        "NS Perović",
+        "K Singh",
+        "CP Li",
+        "OA Dobre"
       ],
       "journal": "arXiv",
       "quartile": "Preprint",
@@ -161,11 +188,42 @@
       "cas_note": null,
       "rank_note": "Preprint",
       "venue_type": "preprint",
-      "published": "2026-01-01",
-      "year": "2026",
-      "url": "https://arxiv.org/abs/2608.00255",
-      "google_scholar_id": "ID4DU93BvcIJ",
-      "cited_by": null,
+      "published": "2025-01-01",
+      "year": "2025",
+      "url": "https://arxiv.org/abs/2512.22620",
+      "google_scholar_id": "xH8Cc3AFOMcJ",
+      "cited_by": 2,
+      "doi": "",
+      "keywords": [
+        "MA AND ISAC"
+      ],
+      "concepts": [
+        "ISAC",
+        "MA"
+      ]
+    },
+    {
+      "title": "AI signal processing paradigm for movable antenna: From spatial position optimization to electromagnetic reconfigurability",
+      "authors": [
+        "Y Li",
+        "Z Wan",
+        "C Sun",
+        "K Feng",
+        "K Ying",
+        "W Ma"
+      ],
+      "journal": "arXiv",
+      "quartile": "Preprint",
+      "sci_quartile": "Preprint",
+      "cas_zone": null,
+      "cas_note": null,
+      "rank_note": "Preprint",
+      "venue_type": "preprint",
+      "published": "2025-01-01",
+      "year": "2025",
+      "url": "https://arxiv.org/abs/2510.19209",
+      "google_scholar_id": "FqM2fkjIL_oJ",
+      "cited_by": 10,
       "doi": "",
       "keywords": [
         "MA AND ISAC"
@@ -196,7 +254,7 @@
       "year": "2024",
       "url": "https://arxiv.org/abs/2405.11936",
       "google_scholar_id": "5pXt1pDMLw4J",
-      "cited_by": 94,
+      "cited_by": 95,
       "doi": "",
       "keywords": [
         "UAV"
@@ -206,13 +264,10 @@
       ]
     },
     {
-      "title": "Fixed and movable antenna technology for 6G integrated sensing and communication",
+      "title": "Historical review of fluid antenna and movable antenna",
       "authors": [
-        "Y Zeng",
-        "Z Dong",
-        "H Wang",
         "L Zhu",
-        "Z Hong"
+        "KK Wong"
       ],
       "journal": "arXiv",
       "quartile": "Preprint",
@@ -223,45 +278,15 @@
       "venue_type": "preprint",
       "published": "2024-01-01",
       "year": "2024",
-      "url": "https://arxiv.org/abs/2407.04404",
-      "google_scholar_id": "livi7_ZNjSAJ",
-      "cited_by": 26,
+      "url": "https://arxiv.org/abs/2401.02362",
+      "google_scholar_id": "mOKBXQP7EO4J",
+      "cited_by": 199,
       "doi": "",
       "keywords": [
-        "MA AND ISAC"
-      ],
-      "concepts": [
-        "ISAC",
         "MA"
-      ]
-    },
-    {
-      "title": "UAV-mounted movable antenna: Joint optimization of UAV placement and antenna configuration",
-      "authors": [
-        "XW Tang",
-        "Y Shi",
-        "Y Huang",
-        "Q Wu"
-      ],
-      "journal": "arXiv",
-      "quartile": "Preprint",
-      "sci_quartile": "Preprint",
-      "cas_zone": null,
-      "cas_note": null,
-      "rank_note": "Preprint",
-      "venue_type": "preprint",
-      "published": "2024-01-01",
-      "year": "2024",
-      "url": "https://arxiv.org/abs/2409.02469",
-      "google_scholar_id": "JKtrWEtmfCIJ",
-      "cited_by": 22,
-      "doi": "",
-      "keywords": [
-        "MA AND UAV"
       ],
       "concepts": [
-        "MA",
-        "UAV"
+        "MA"
       ]
     }
   ]
