@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T22:46:02.417460+00:00",
+  "generated_at": "2026-09-24T23:03:52.940084+00:00",
   "status": "ok",
   "message": "Paper radar data generated successfully.",
   "source": "Google Scholar",
@@ -84,34 +84,6 @@
   "include_preprints": true,
   "journal_filter": "Curated venues include SCI/JCR Q1/Q2/Q3 journals, CAS 1/2/3-zone journals, and arXiv preprints in scripts/paper_config.json",
   "papers": [
-    {
-      "title": "Energy-efficient secure communications via joint optimization of UAV trajectory and movable-antenna array beamforming",
-      "authors": [
-        "S Kim",
-        "J Gong",
-        "J Kang"
-      ],
-      "journal": "IEEE Wireless Communications Letters",
-      "quartile": "Q2",
-      "sci_quartile": "Q2",
-      "cas_zone": "中科院待核验",
-      "cas_note": "中科院待核验",
-      "rank_note": "Q2",
-      "venue_type": "journal",
-      "published": "2026-01-01",
-      "year": "2026",
-      "url": "https://ieeexplore.ieee.org/abstract/document/11321281/",
-      "google_scholar_id": "Lme9rsBz_YoJ",
-      "cited_by": 7,
-      "doi": "",
-      "keywords": [
-        "MA AND UAV"
-      ],
-      "concepts": [
-        "MA",
-        "UAV"
-      ]
-    },
     {
       "title": "Reconfigurable airspace: Synergizing movable antenna and intelligent surface for low-altitude ISAC networks",
       "authors": [
