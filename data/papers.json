@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T00:14:40.426450+00:00",
+  "generated_at": "2026-09-29T23:30:13.616870+00:00",
   "status": "ok",
   "message": "Paper radar data generated successfully.",
   "source": "Google Scholar",
@@ -115,36 +115,6 @@
       ]
     },
     {
-      "title": "Predictive position control for movable antenna arrays in UAV communications: A spatio-temporal transformer-LSTM framework",
-      "authors": [
-        "K Yu",
-        "K Li",
-        "X Liu",
-        "Q Zhang",
-        "Z Feng"
-      ],
-      "journal": "arXiv",
-      "quartile": "Preprint",
-      "sci_quartile": "Preprint",
-      "cas_zone": null,
-      "cas_note": null,
-      "rank_note": "Preprint",
-      "venue_type": "preprint",
-      "published": "2025-01-01",
-      "year": "2025",
-      "url": "https://arxiv.org/abs/2508.10720",
-      "google_scholar_id": "F_z_zH_GW6YJ",
-      "cited_by": 8,
-      "doi": "",
-      "keywords": [
-        "MA AND UAV"
-      ],
-      "concepts": [
-        "MA",
-        "UAV"
-      ]
-    },
-    {
       "title": "UAV-VisLoc: A large-scale dataset for UAV visual localization",
       "authors": [
         "W Xu",
@@ -165,7 +135,7 @@
       "year": "2024",
       "url": "https://arxiv.org/abs/2405.11936",
       "google_scholar_id": "5pXt1pDMLw4J",
-      "cited_by": 96,
+      "cited_by": 99,
       "doi": "",
       "keywords": [
         "UAV"
