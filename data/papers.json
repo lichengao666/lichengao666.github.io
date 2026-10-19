@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T22:16:11.472548+00:00",
+  "generated_at": "2026-10-19T23:23:34.806381+00:00",
   "status": "ok",
   "message": "Paper radar data generated successfully.",
   "source": "Google Scholar",
@@ -85,95 +85,6 @@
   "journal_filter": "Curated venues include SCI/JCR Q1/Q2/Q3 journals, CAS 1/2/3-zone journals, and arXiv preprints in scripts/paper_config.json",
   "papers": [
     {
-      "title": "Movable Subarray-Aided ISAC in Hybrid Near-Far Field Channels",
-      "authors": [
-        "R Liu",
-        "Y Gang",
-        "H Wang",
-        "T Mao"
-      ],
-      "journal": "arXiv",
-      "quartile": "Preprint",
-      "sci_quartile": "Preprint",
-      "cas_zone": null,
-      "cas_note": null,
-      "rank_note": "Preprint",
-      "venue_type": "preprint",
-      "published": "2026-01-01",
-      "year": "2026",
-      "url": "https://arxiv.org/abs/2608.01854",
-      "google_scholar_id": "H3nLU4TZUfQJ",
-      "cited_by": 1,
-      "doi": "",
-      "keywords": [
-        "MA AND ISAC"
-      ],
-      "concepts": [
-        "ISAC",
-        "MA"
-      ]
-    },
-    {
-      "title": "Discrete Antenna Positioning and Beamforming Design for RIS-Assisted MA Secure ISAC Systems",
-      "authors": [
-        "Z Li",
-        "M Zhu",
-        "Z Su",
-        "L Chen",
-        "K Wei",
-        "W Fang"
-      ],
-      "journal": "arXiv",
-      "quartile": "Preprint",
-      "sci_quartile": "Preprint",
-      "cas_zone": null,
-      "cas_note": null,
-      "rank_note": "Preprint",
-      "venue_type": "preprint",
-      "published": "2026-01-01",
-      "year": "2026",
-      "url": "https://arxiv.org/abs/2609.14974",
-      "google_scholar_id": "4atqaEyK7-YJ",
-      "cited_by": null,
-      "doi": "",
-      "keywords": [
-        "MA AND ISAC"
-      ],
-      "concepts": [
-        "ISAC",
-        "MA"
-      ]
-    },
-    {
-      "title": "Optimal Beamforming Design for Multi-user MIMO Near-Field ISAC Systems with Movable Antennas",
-      "authors": [
-        "NS Perović",
-        "K Singh",
-        "CP Li",
-        "OA Dobre"
-      ],
-      "journal": "arXiv",
-      "quartile": "Preprint",
-      "sci_quartile": "Preprint",
-      "cas_zone": null,
-      "cas_note": null,
-      "rank_note": "Preprint",
-      "venue_type": "preprint",
-      "published": "2025-01-01",
-      "year": "2025",
-      "url": "https://arxiv.org/abs/2512.22620",
-      "google_scholar_id": "xH8Cc3AFOMcJ",
-      "cited_by": 3,
-      "doi": "",
-      "keywords": [
-        "MA AND ISAC"
-      ],
-      "concepts": [
-        "ISAC",
-        "MA"
-      ]
-    },
-    {
       "title": "AI signal processing paradigm for movable antenna: From spatial position optimization to electromagnetic reconfigurability",
       "authors": [
         "Y Li",
@@ -202,61 +113,6 @@
       "concepts": [
         "ISAC",
         "MA"
-      ]
-    },
-    {
-      "title": "Historical review of fluid antenna and movable antenna",
-      "authors": [
-        "L Zhu",
-        "KK Wong"
-      ],
-      "journal": "arXiv",
-      "quartile": "Preprint",
-      "sci_quartile": "Preprint",
-      "cas_zone": null,
-      "cas_note": null,
-      "rank_note": "Preprint",
-      "venue_type": "preprint",
-      "published": "2024-01-01",
-      "year": "2024",
-      "url": "https://arxiv.org/abs/2401.02362",
-      "google_scholar_id": "mOKBXQP7EO4J",
-      "cited_by": 203,
-      "doi": "",
-      "keywords": [
-        "MA"
-      ],
-      "concepts": [
-        "MA"
-      ]
-    },
-    {
-      "title": "UAV-mounted movable antenna: Joint optimization of UAV placement and antenna configuration",
-      "authors": [
-        "XW Tang",
-        "Y Shi",
-        "Y Huang",
-        "Q Wu"
-      ],
-      "journal": "arXiv",
-      "quartile": "Preprint",
-      "sci_quartile": "Preprint",
-      "cas_zone": null,
-      "cas_note": null,
-      "rank_note": "Preprint",
-      "venue_type": "preprint",
-      "published": "2024-01-01",
-      "year": "2024",
-      "url": "https://arxiv.org/abs/2409.02469",
-      "google_scholar_id": "JKtrWEtmfCIJ",
-      "cited_by": 24,
-      "doi": "",
-      "keywords": [
-        "MA AND UAV"
-      ],
-      "concepts": [
-        "MA",
-        "UAV"
       ]
     }
   ]
