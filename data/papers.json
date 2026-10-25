@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T22:16:40.397740+00:00",
+  "generated_at": "2026-10-25T22:20:56.396588+00:00",
   "status": "ok",
   "message": "Paper radar data generated successfully.",
   "source": "Google Scholar",
@@ -85,14 +85,14 @@
   "journal_filter": "Curated venues include SCI/JCR Q1/Q2/Q3 journals, CAS 1/2/3-zone journals, and arXiv preprints in scripts/paper_config.json",
   "papers": [
     {
-      "title": "Movable Antenna-Enhanced MIMO-OFDM ISAC: Ambiguity Function Analysis, Waveform Design and Antenna Position Optimization",
+      "title": "Resource Allocation for Secure Dual-UAV-Assisted ISAC System",
       "authors": [
-        "T Mao",
-        "Y Gang",
-        "G Liu",
-        "S Cui",
-        "Y Sun",
-        "Y Xiong"
+        "H Lei",
+        "J Geng",
+        "KH Park",
+        "J Ye",
+        "L Yang",
+        "X Miao"
       ],
       "journal": "arXiv",
       "quartile": "Preprint",
@@ -103,100 +103,37 @@
       "venue_type": "preprint",
       "published": "2026-01-01",
       "year": "2026",
-      "url": "https://arxiv.org/abs/2609.34737",
-      "google_scholar_id": "it9NPI4_GLYJ",
-      "cited_by": 1,
+      "url": "https://arxiv.org/abs/2608.24398",
+      "google_scholar_id": "EOXLnYWHcRoJ",
+      "cited_by": 2,
       "doi": "",
       "keywords": [
-        "MA AND ISAC"
+        "UAV AND ISAC"
       ],
       "concepts": [
         "ISAC",
-        "MA"
+        "UAV"
       ]
     },
     {
-      "title": "Movable Subarray-Aided ISAC in Hybrid Near-Far Field Channels",
+      "title": "Energy-efficient secure communications via joint optimization of UAV trajectory and movable-antenna array beamforming",
       "authors": [
-        "R Liu",
-        "Y Gang",
-        "H Wang",
-        "T Mao"
+        "S Kim",
+        "J Gong",
+        "J Kang"
       ],
-      "journal": "arXiv",
-      "quartile": "Preprint",
-      "sci_quartile": "Preprint",
-      "cas_zone": null,
-      "cas_note": null,
-      "rank_note": "Preprint",
-      "venue_type": "preprint",
+      "journal": "IEEE Wireless Communications Letters",
+      "quartile": "Q2",
+      "sci_quartile": "Q2",
+      "cas_zone": "中科院待核验",
+      "cas_note": "中科院待核验",
+      "rank_note": "Q2",
+      "venue_type": "journal",
       "published": "2026-01-01",
       "year": "2026",
-      "url": "https://arxiv.org/abs/2608.01854",
-      "google_scholar_id": "H3nLU4TZUfQJ",
-      "cited_by": 1,
-      "doi": "",
-      "keywords": [
-        "MA AND ISAC"
-      ],
-      "concepts": [
-        "ISAC",
-        "MA"
-      ]
-    },
-    {
-      "title": "Discrete Antenna Positioning and Beamforming Design for RIS-Assisted MA Secure ISAC Systems",
-      "authors": [
-        "Z Li",
-        "M Zhu",
-        "Z Su",
-        "L Chen",
-        "K Wei",
-        "W Fang"
-      ],
-      "journal": "arXiv",
-      "quartile": "Preprint",
-      "sci_quartile": "Preprint",
-      "cas_zone": null,
-      "cas_note": null,
-      "rank_note": "Preprint",
-      "venue_type": "preprint",
-      "published": "2026-01-01",
-      "year": "2026",
-      "url": "https://arxiv.org/abs/2609.14974",
-      "google_scholar_id": "4atqaEyK7-YJ",
-      "cited_by": null,
-      "doi": "",
-      "keywords": [
-        "MA AND ISAC"
-      ],
-      "concepts": [
-        "ISAC",
-        "MA"
-      ]
-    },
-    {
-      "title": "Learning to optimize uav path planning for data sensing in wireless sensor networks",
-      "authors": [
-        "S Ma",
-        "Z Ma",
-        "W Cao",
-        "YJ Gong",
-        "L Ma",
-        "Z Huang"
-      ],
-      "journal": "arXiv",
-      "quartile": "Preprint",
-      "sci_quartile": "Preprint",
-      "cas_zone": null,
-      "cas_note": null,
-      "rank_note": "Preprint",
-      "venue_type": "preprint",
-      "published": "2026-01-01",
-      "year": "2026",
-      "url": "https://arxiv.org/abs/2609.16629",
-      "google_scholar_id": "5wCBqNsJg4sJ",
-      "cited_by": 1,
+      "url": "https://ieeexplore.ieee.org/abstract/document/11321281/",
+      "google_scholar_id": "Lme9rsBz_YoJ",
+      "cited_by": 7,
       "doi": "",
       "keywords": [
         "MA AND UAV"
@@ -207,14 +144,14 @@
       ]
     },
     {
-      "title": "Optimizing 6G integrated sensing and communications (ISAC) via expert networks",
+      "title": "UAV-VisLoc: A large-scale dataset for UAV visual localization",
       "authors": [
-        "J Wang",
-        "H Du",
-        "G Sun",
-        "J Kang",
-        "H Zhou",
-        "D Niyato"
+        "W Xu",
+        "Y Yao",
+        "J Cao",
+        "Z Wei",
+        "C Liu",
+        "J Wang"
       ],
       "journal": "arXiv",
       "quartile": "Preprint",
@@ -225,15 +162,45 @@
       "venue_type": "preprint",
       "published": "2024-01-01",
       "year": "2024",
-      "url": "https://arxiv.org/abs/2406.00408",
-      "google_scholar_id": "7UWCXDVKEzYJ",
-      "cited_by": 32,
+      "url": "https://arxiv.org/abs/2405.11936",
+      "google_scholar_id": "5pXt1pDMLw4J",
+      "cited_by": 112,
       "doi": "",
       "keywords": [
-        "ISAC"
+        "UAV"
       ],
       "concepts": [
-        "ISAC"
+        "UAV"
+      ]
+    },
+    {
+      "title": "Fixed and movable antenna technology for 6G integrated sensing and communication",
+      "authors": [
+        "Y Zeng",
+        "Z Dong",
+        "H Wang",
+        "L Zhu",
+        "Z Hong"
+      ],
+      "journal": "arXiv",
+      "quartile": "Preprint",
+      "sci_quartile": "Preprint",
+      "cas_zone": null,
+      "cas_note": null,
+      "rank_note": "Preprint",
+      "venue_type": "preprint",
+      "published": "2024-01-01",
+      "year": "2024",
+      "url": "https://arxiv.org/abs/2407.04404",
+      "google_scholar_id": "livi7_ZNjSAJ",
+      "cited_by": 26,
+      "doi": "",
+      "keywords": [
+        "MA AND ISAC"
+      ],
+      "concepts": [
+        "ISAC",
+        "MA"
       ]
     }
   ]
