@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T23:36:27.741976+00:00",
+  "generated_at": "2026-10-27T23:34:41.347179+00:00",
   "status": "ok",
   "message": "Paper radar data generated successfully.",
   "source": "Google Scholar",
@@ -144,6 +144,37 @@
       ]
     },
     {
+      "title": "UW-OCDM for Low-Altitude UAV Communication and Cooperative Sensing",
+      "authors": [
+        "Y Tao",
+        "Z Gao",
+        "Z Wan",
+        "Y Lv",
+        "H Wang",
+        "K Huang"
+      ],
+      "journal": "arXiv",
+      "quartile": "Preprint",
+      "sci_quartile": "Preprint",
+      "cas_zone": null,
+      "cas_note": null,
+      "rank_note": "Preprint",
+      "venue_type": "preprint",
+      "published": "2026-01-01",
+      "year": "2026",
+      "url": "https://arxiv.org/abs/2608.21050",
+      "google_scholar_id": "nZWA92O3BIgJ",
+      "cited_by": null,
+      "doi": "",
+      "keywords": [
+        "UAV AND ISAC"
+      ],
+      "concepts": [
+        "ISAC",
+        "UAV"
+      ]
+    },
+    {
       "title": "Toward Mission-Critical ISAC: Reliable Energy-Aware Coordination in UAV Swarms",
       "authors": [
         "M Shokrnezhad",
@@ -172,39 +203,14 @@
       ]
     },
     {
-      "title": "Mutual information based pilot design for ISAC",
+      "title": "Movable Antenna-Enhanced MIMO-OFDM ISAC: Ambiguity Function Analysis, Waveform Design and Antenna Position Optimization",
       "authors": [
-        "A Bazzi",
-        "M Chafii"
-      ],
-      "journal": "IEEE Transactions on Communications",
-      "quartile": "Q1",
-      "sci_quartile": "Q1",
-      "cas_zone": "中科院待核验",
-      "cas_note": "中科院待核验",
-      "rank_note": "Q1",
-      "venue_type": "journal",
-      "published": "2025-01-01",
-      "year": "2025",
-      "url": "https://ieeexplore.ieee.org/abstract/document/10904093/",
-      "google_scholar_id": "UHZtQbV2VZIJ",
-      "cited_by": 66,
-      "doi": "",
-      "keywords": [
-        "ISAC"
-      ],
-      "concepts": [
-        "ISAC"
-      ]
-    },
-    {
-      "title": "Fixed and movable antenna technology for 6G integrated sensing and communication",
-      "authors": [
-        "Y Zeng",
-        "Z Dong",
-        "H Wang",
-        "L Zhu",
-        "Z Hong"
+        "T Mao",
+        "Y Gang",
+        "G Liu",
+        "S Cui",
+        "Y Sun",
+        "Y Xiong"
       ],
       "journal": "arXiv",
       "quartile": "Preprint",
@@ -213,11 +219,71 @@
       "cas_note": null,
       "rank_note": "Preprint",
       "venue_type": "preprint",
-      "published": "2024-01-01",
-      "year": "2024",
-      "url": "https://arxiv.org/abs/2407.04404",
-      "google_scholar_id": "livi7_ZNjSAJ",
-      "cited_by": 26,
+      "published": "2026-01-01",
+      "year": "2026",
+      "url": "https://arxiv.org/abs/2609.34737",
+      "google_scholar_id": "it9NPI4_GLYJ",
+      "cited_by": 1,
+      "doi": "",
+      "keywords": [
+        "MA AND ISAC"
+      ],
+      "concepts": [
+        "ISAC",
+        "MA"
+      ]
+    },
+    {
+      "title": "Movable Subarray-Aided ISAC in Hybrid Near-Far Field Channels",
+      "authors": [
+        "R Liu",
+        "Y Gang",
+        "H Wang",
+        "T Mao"
+      ],
+      "journal": "arXiv",
+      "quartile": "Preprint",
+      "sci_quartile": "Preprint",
+      "cas_zone": null,
+      "cas_note": null,
+      "rank_note": "Preprint",
+      "venue_type": "preprint",
+      "published": "2026-01-01",
+      "year": "2026",
+      "url": "https://arxiv.org/abs/2608.01854",
+      "google_scholar_id": "H3nLU4TZUfQJ",
+      "cited_by": 1,
+      "doi": "",
+      "keywords": [
+        "MA AND ISAC"
+      ],
+      "concepts": [
+        "ISAC",
+        "MA"
+      ]
+    },
+    {
+      "title": "Artificial Intelligence for Spatially Reconfigurable Antennas: Movable, Fluid, and Pinching Antenna Systems",
+      "authors": [
+        "NC Luong",
+        "Z Sui",
+        "TH Vu",
+        "J Cao",
+        "B Ma",
+        "T Van Le"
+      ],
+      "journal": "arXiv",
+      "quartile": "Preprint",
+      "sci_quartile": "Preprint",
+      "cas_zone": null,
+      "cas_note": null,
+      "rank_note": "Preprint",
+      "venue_type": "preprint",
+      "published": "2026-01-01",
+      "year": "2026",
+      "url": "https://arxiv.org/abs/2608.00255",
+      "google_scholar_id": "ID4DU93BvcIJ",
+      "cited_by": null,
       "doi": "",
       "keywords": [
         "MA AND ISAC"
