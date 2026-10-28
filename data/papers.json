@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T23:34:41.347179+00:00",
+  "generated_at": "2026-10-28T23:54:36.047533+00:00",
   "status": "ok",
   "message": "Paper radar data generated successfully.",
   "source": "Google Scholar",
@@ -263,14 +263,10 @@
       ]
     },
     {
-      "title": "Artificial Intelligence for Spatially Reconfigurable Antennas: Movable, Fluid, and Pinching Antenna Systems",
+      "title": "Movable-Element STAR-RIS for Integrated Sensing and Communication: Architectures, Opportunities, and Practical Challenges",
       "authors": [
-        "NC Luong",
-        "Z Sui",
-        "TH Vu",
-        "J Cao",
-        "B Ma",
-        "T Van Le"
+        "WU Khan",
+        "M Adil"
       ],
       "journal": "arXiv",
       "quartile": "Preprint",
@@ -281,8 +277,8 @@
       "venue_type": "preprint",
       "published": "2026-01-01",
       "year": "2026",
-      "url": "https://arxiv.org/abs/2608.00255",
-      "google_scholar_id": "ID4DU93BvcIJ",
+      "url": "https://arxiv.org/abs/2610.00145",
+      "google_scholar_id": "VpQ27LtDDnYJ",
       "cited_by": null,
       "doi": "",
       "keywords": [
@@ -290,6 +286,32 @@
       ],
       "concepts": [
         "ISAC",
+        "MA"
+      ]
+    },
+    {
+      "title": "Historical review of fluid antenna and movable antenna",
+      "authors": [
+        "L Zhu",
+        "KK Wong"
+      ],
+      "journal": "arXiv",
+      "quartile": "Preprint",
+      "sci_quartile": "Preprint",
+      "cas_zone": null,
+      "cas_note": null,
+      "rank_note": "Preprint",
+      "venue_type": "preprint",
+      "published": "2024-01-01",
+      "year": "2024",
+      "url": "https://arxiv.org/abs/2401.02362",
+      "google_scholar_id": "mOKBXQP7EO4J",
+      "cited_by": 204,
+      "doi": "",
+      "keywords": [
+        "MA"
+      ],
+      "concepts": [
         "MA"
       ]
     }
