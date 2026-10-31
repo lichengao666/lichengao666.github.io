@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T23:29:28.969992+00:00",
+  "generated_at": "2026-10-31T23:08:03.915401+00:00",
   "status": "ok",
   "message": "Paper radar data generated successfully.",
   "source": "Google Scholar",
@@ -145,14 +145,14 @@
       ]
     },
     {
-      "title": "Discrete Antenna Positioning and Beamforming Design for RIS-Assisted MA Secure ISAC Systems",
+      "title": "Movable-Antenna Empowered Backscatter ISAC: Toward Geometry-Adaptive, Low-Power Networks",
       "authors": [
-        "Z Li",
-        "M Zhu",
-        "Z Su",
-        "L Chen",
-        "K Wei",
-        "W Fang"
+        "H Zhang",
+        "B Gu",
+        "X Yu",
+        "H Xie",
+        "L Wang",
+        "Y Xu"
       ],
       "journal": "arXiv",
       "quartile": "Preprint",
@@ -163,8 +163,8 @@
       "venue_type": "preprint",
       "published": "2026-01-01",
       "year": "2026",
-      "url": "https://arxiv.org/abs/2609.14974",
-      "google_scholar_id": "4atqaEyK7-YJ",
+      "url": "https://arxiv.org/abs/2601.19224",
+      "google_scholar_id": "jp2lXPj8BdUJ",
       "cited_by": null,
       "doi": "",
       "keywords": [
@@ -176,12 +176,12 @@
       ]
     },
     {
-      "title": "Coordinated RSMA for integrated sensing and communication in emergency UAV systems",
+      "title": "UAV-mounted movable antenna: Joint optimization of UAV placement and antenna configuration",
       "authors": [
-        "B Yao",
-        "R Li",
-        "Y Chen",
-        "L Wang"
+        "XW Tang",
+        "Y Shi",
+        "Y Huang",
+        "Q Wu"
       ],
       "journal": "arXiv",
       "quartile": "Preprint",
@@ -192,15 +192,15 @@
       "venue_type": "preprint",
       "published": "2024-01-01",
       "year": "2024",
-      "url": "https://arxiv.org/abs/2406.19205",
-      "google_scholar_id": "jKGUecLaYPIJ",
-      "cited_by": 13,
+      "url": "https://arxiv.org/abs/2409.02469",
+      "google_scholar_id": "JKtrWEtmfCIJ",
+      "cited_by": 24,
       "doi": "",
       "keywords": [
-        "UAV AND ISAC"
+        "MA AND UAV"
       ],
       "concepts": [
-        "ISAC",
+        "MA",
         "UAV"
       ]
     }
