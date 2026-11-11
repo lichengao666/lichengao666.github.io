@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T02:34:46.109998+00:00",
+  "generated_at": "2026-11-11T00:27:19.659714+00:00",
   "status": "ok",
   "message": "Paper radar data generated successfully.",
   "source": "Google Scholar",
@@ -84,36 +84,6 @@
   "include_preprints": true,
   "journal_filter": "Curated venues include SCI/JCR Q1/Q2/Q3 journals, CAS 1/2/3-zone journals, and arXiv preprints in scripts/paper_config.json",
   "papers": [
-    {
-      "title": "Reconfigurable airspace: Synergizing movable antenna and intelligent surface for low-altitude ISAC networks",
-      "authors": [
-        "H Wang",
-        "Q Wu",
-        "Y Jiang",
-        "Z Zheng",
-        "Z Zhang"
-      ],
-      "journal": "arXiv",
-      "quartile": "Preprint",
-      "sci_quartile": "Preprint",
-      "cas_zone": null,
-      "cas_note": null,
-      "rank_note": "Preprint",
-      "venue_type": "preprint",
-      "published": "2025-01-01",
-      "year": "2025",
-      "url": "https://arxiv.org/abs/2511.10310",
-      "google_scholar_id": "iUQyrzgA9nIJ",
-      "cited_by": 10,
-      "doi": "",
-      "keywords": [
-        "MA AND ISAC"
-      ],
-      "concepts": [
-        "ISAC",
-        "MA"
-      ]
-    },
     {
       "title": "UAV-VisLoc: A large-scale dataset for UAV visual localization",
       "authors": [
