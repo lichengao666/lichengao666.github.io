@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T01:07:56.720512+00:00",
+  "generated_at": "2026-11-22T00:07:58.963888+00:00",
   "status": "ok",
   "message": "Paper radar data generated successfully.",
   "source": "Google Scholar",
@@ -85,13 +85,13 @@
   "journal_filter": "Curated venues include SCI/JCR Q1/Q2/Q3 journals, CAS 1/2/3-zone journals, and arXiv preprints in scripts/paper_config.json",
   "papers": [
     {
-      "title": "Reconfigurable airspace: Synergizing movable antenna and intelligent surface for low-altitude ISAC networks",
+      "title": "Predictive position control for movable antenna arrays in UAV communications: A spatio-temporal transformer-LSTM framework",
       "authors": [
-        "H Wang",
-        "Q Wu",
-        "Y Jiang",
-        "Z Zheng",
-        "Z Zhang"
+        "K Yu",
+        "K Li",
+        "X Liu",
+        "Q Zhang",
+        "Z Feng"
       ],
       "journal": "arXiv",
       "quartile": "Preprint",
@@ -102,16 +102,16 @@
       "venue_type": "preprint",
       "published": "2025-01-01",
       "year": "2025",
-      "url": "https://arxiv.org/abs/2511.10310",
-      "google_scholar_id": "iUQyrzgA9nIJ",
-      "cited_by": 10,
+      "url": "https://arxiv.org/abs/2508.10720",
+      "google_scholar_id": "F_z_zH_GW6YJ",
+      "cited_by": 8,
       "doi": "",
       "keywords": [
-        "MA AND ISAC"
+        "MA AND UAV"
       ],
       "concepts": [
-        "ISAC",
-        "MA"
+        "MA",
+        "UAV"
       ]
     },
     {
@@ -161,7 +161,7 @@
       "year": "2024",
       "url": "https://arxiv.org/abs/2401.02362",
       "google_scholar_id": "mOKBXQP7EO4J",
-      "cited_by": 206,
+      "cited_by": 207,
       "doi": "",
       "keywords": [
         "MA"
